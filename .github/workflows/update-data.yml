@@ -1,0 +1,48 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "0 8 * * 1-5"   # 05:00 BRT (08:00 UTC) — antes da abertura
+    - cron: "0 12 * * 1-5"  # 09:00 BRT — refresh de meio de manhã
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news
+        run: python scripts/fetch_news.py
+
+      - name: Fetch economic calendar
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: python scripts/fetch_calendar.py
+
+      - name: Fetch operações sheet
+        env:
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+        run: python scripts/fetch_operacoes.py
+
+      - name: Write meta.json
+        run: |
+          python -c "import json, datetime; json.dump({'updated_at': datetime.datetime.now(datetime.timezone.utc).isoformat()}, open('data/meta.json', 'w'))"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git diff --staged --quiet || git commit -m "chore: atualiza dados automaticamente"
+          git push
