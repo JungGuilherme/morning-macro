@@ -41,20 +41,10 @@
 
   <!-- BRIEFING -->
   <section class="tab-panel active" id="panel-briefing">
-    <div class="section-title">Agenda do dia</div>
-    <div class="agenda-grid">
-      <div>
-        <h3 class="region-title">🇧🇷 Brasil</h3>
-        <div id="agenda-brasil-mini" class="agenda-list"></div>
-      </div>
-      <div>
-        <h3 class="region-title">🇺🇸 EUA</h3>
-        <div id="agenda-eua-mini" class="agenda-list"></div>
-      </div>
-      <div>
-        <h3 class="region-title">🌎 Internacional</h3>
-        <div id="agenda-internacional-mini" class="agenda-list"></div>
-      </div>
+    <div class="section-title">Calendário econômico</div>
+    <div class="calendar-embed calendar-embed-mini">
+      <iframe src="https://sslecal2.investing.com/?columns=exc_flags,exc_currency,exc_importance,exc_actual,exc_forecast,exc_previous&category=_employment,_economicActivity,_inflation,_credit,_centralBanks,_confidenceIndex,_balance,_Bonds&importance=2,3&features=datepicker,timezone&countries=32,37,5,72&calType=day&timeZone=12&lang=12"
+        width="100%" height="320" frameborder="0" allowtransparency="true"></iframe>
     </div>
 
     <div class="section-title">Clipping em destaque</div>
@@ -63,19 +53,10 @@
 
   <!-- AGENDA -->
   <section class="tab-panel" id="panel-agenda">
-    <div class="section-title">Agenda Brasil</div>
-    <div id="agenda-brasil" class="agenda-list"></div>
-
-    <div class="section-title">Agenda EUA</div>
-    <div id="agenda-eua" class="agenda-list"></div>
-
-    <div class="section-title">Agenda Internacional</div>
-    <div id="agenda-internacional" class="agenda-list"></div>
-
-    <div class="section-title">Calendário completo (Investing.com)</div>
+    <div class="section-title">Calendário econômico (Investing.com)</div>
     <div class="calendar-embed">
       <iframe src="https://sslecal2.investing.com/?columns=exc_flags,exc_currency,exc_importance,exc_actual,exc_forecast,exc_previous&category=_employment,_economicActivity,_inflation,_credit,_centralBanks,_confidenceIndex,_balance,_Bonds&importance=2,3&features=datepicker,timezone&countries=32,37,5,72&calType=week&timeZone=12&lang=12"
-        width="100%" height="500" frameborder="0" allowtransparency="true"></iframe>
+        width="100%" height="600" frameborder="0" allowtransparency="true"></iframe>
     </div>
   </section>
 
@@ -107,11 +88,11 @@
       <table id="operacoes-table">
         <thead>
           <tr>
-            <th>Operação</th><th>Ativo</th><th>Prazo</th><th></th>
+            <th>Ativo</th><th>Prazo</th><th></th>
           </tr>
         </thead>
         <tbody id="operacoes-tbody">
-          <tr><td colspan="4" class="empty-row">Carregando operações…</td></tr>
+          <tr><td colspan="3" class="empty-row">Carregando operações…</td></tr>
         </tbody>
       </table>
     </div>

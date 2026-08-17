@@ -25,11 +25,6 @@ jobs:
       - name: Fetch news
         run: python scripts/fetch_news.py
 
-      - name: Fetch economic calendar
-        env:
-          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
-        run: python scripts/fetch_calendar.py
-
       - name: Fetch operações sheet
         env:
           SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}

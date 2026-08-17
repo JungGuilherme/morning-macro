@@ -162,6 +162,7 @@ body {
   overflow: hidden;
 }
 .calendar-embed iframe { display: block; }
+.calendar-embed-mini { margin-bottom: 8px; }
 
 /* Clipping */
 .clip-card {
