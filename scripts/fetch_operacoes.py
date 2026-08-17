@@ -13,21 +13,15 @@ import requests
 OUT_PATH = Path(__file__).resolve().parent.parent / "data" / "operacoes.json"
 
 CSV_URL = os.environ.get("SHEET_CSV_URL", "")
+COMMUNITY_LINK = "https://chat.whatsapp.com/GtVnXYTSg9f3GX93RAEacA"
 
 # Maps expected sheet header (case-insensitive, accents optional) -> JSON key
 COLUMN_MAP = {
-    "data": "data",
+    "operação": "operacao",
+    "operacao": "operacao",
     "ativo": "ativo",
-    "direção": "direcao",
-    "direcao": "direcao",
-    "entrada": "entrada",
-    "preço entrada": "entrada",
-    "preco entrada": "entrada",
-    "stop": "stop",
-    "alvo": "alvo",
-    "status": "status",
-    "comentário": "comentario",
-    "comentario": "comentario",
+    "prazo": "prazo",
+    "link": "link",
 }
 
 
@@ -56,6 +50,8 @@ def main():
             norm_key = COLUMN_MAP.get(key.strip().lower())
             if norm_key:
                 row[norm_key] = (value or "").strip()
+        if not row.get("link"):
+            row["link"] = COMMUNITY_LINK
         if row.get("ativo"):
             rows.append(row)
 

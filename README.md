@@ -18,7 +18,9 @@ Em **Settings → Secrets and variables → Actions**, adicione:
 | Secret | Descrição |
 |---|---|
 | `FMP_API_KEY` | Chave da API gratuita da Financial Modeling Prep |
-| `SHEET_CSV_URL` | Link CSV publicado da planilha "Operações" (Arquivo → Compartilhar → Publicar na Web) |
+| `SHEET_CSV_URL` | `https://docs.google.com/spreadsheets/d/<ID_DA_PLANILHA>/export?format=csv&gid=0` — a planilha precisa estar com acesso "Qualquer pessoa com o link" (Visualizador) |
+
+A planilha "Operações" deve ter as colunas (primeira linha, nesta ordem ou qualquer ordem): `Operação | Ativo | Prazo | Link`. O campo `Link` é opcional — se vazio, o botão "Ver detalhes" do site aponta para o grupo do WhatsApp por padrão.
 
 ## Rodando localmente
 

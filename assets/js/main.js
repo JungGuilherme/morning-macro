@@ -124,26 +124,24 @@ function renderResumo(news, calendar) {
 }
 
 // ---------- Operações ----------
+const DEFAULT_OP_LINK = 'https://chat.whatsapp.com/GtVnXYTSg9f3GX93RAEacA';
+
 function renderOperacoes(ops) {
   const tbody = $('#operacoes-tbody');
   if (!tbody) return;
   tbody.innerHTML = '';
   if (!ops || ops.length === 0) {
-    tbody.innerHTML = '<tr><td colspan="8" class="empty-row">Nenhuma operação cadastrada no momento.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="4" class="empty-row">Nenhuma operação cadastrada no momento.</td></tr>';
     return;
   }
   ops.forEach((op) => {
-    const statusClass = 'status-' + (op.status || '').toLowerCase().replace(/\s+/g, '-');
+    const link = op.link || DEFAULT_OP_LINK;
     const tr = document.createElement('tr');
     tr.innerHTML = `
-      <td>${op.data || ''}</td>
-      <td><strong>${op.ativo || ''}</strong></td>
-      <td>${op.direcao || ''}</td>
-      <td>${op.entrada || ''}</td>
-      <td>${op.stop || ''}</td>
-      <td>${op.alvo || ''}</td>
-      <td class="${statusClass}">${op.status || ''}</td>
-      <td>${op.comentario || ''}</td>
+      <td><strong>${op.operacao || ''}</strong></td>
+      <td>${op.ativo || ''}</td>
+      <td>${op.prazo || ''}</td>
+      <td><a class="btn btn-community op-link" href="${link}" target="_blank" rel="noopener">Ver detalhes</a></td>
     `;
     tbody.appendChild(tr);
   });
