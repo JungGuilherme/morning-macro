@@ -22,16 +22,38 @@ async function fetchJSON(path) {
   }
 }
 
-// ---------- Tabs ----------
-function initTabs() {
-  $$('.tab').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      $$('.tab').forEach((b) => b.classList.remove('active'));
-      $$('.tab-panel').forEach((p) => p.classList.remove('active'));
-      btn.classList.add('active');
-      $('#panel-' + btn.dataset.tab).classList.add('active');
-    });
-  });
+// ---------- Scroll spy ----------
+function initScrollSpy() {
+  const links = $$('.navlink');
+  const sections = Array.from(document.querySelectorAll('.page-section'));
+  if (!links.length || !sections.length) return;
+
+  const setActive = (id) => {
+    links.forEach((l) => l.classList.toggle('active', l.dataset.section === id));
+  };
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      const visible = entries.filter((e) => e.isIntersecting);
+      if (visible.length > 0) setActive(visible[0].target.id);
+    },
+    { rootMargin: '0px 0px -70% 0px' }
+  );
+  sections.forEach((s) => observer.observe(s));
+}
+
+// ---------- Live indicator ----------
+function initLiveIndicator() {
+  const dot = $('#live-dot');
+  const label = $('#live-label');
+  if (!dot || !label) return;
+
+  const hourBRT = Number(
+    new Intl.DateTimeFormat('en-US', { hour: 'numeric', hour12: false, timeZone: 'America/Sao_Paulo' }).format(new Date())
+  );
+  const isLive = hourBRT >= 8 && hourBRT < 9;
+  dot.hidden = !isLive;
+  label.textContent = isLive ? 'Estamos ao vivo — Morning Call' : '▶ Morning Call ao vivo';
 }
 
 // ---------- Clipping ----------
@@ -114,7 +136,8 @@ function renderOperacoes(ops) {
 
 // ---------- Init ----------
 async function init() {
-  initTabs();
+  initScrollSpy();
+  initLiveIndicator();
 
   const now = new Date();
   $('#date-full').textContent = fmtDateFull(now);

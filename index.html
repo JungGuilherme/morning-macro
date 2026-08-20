@@ -3,9 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="dark">
 <title>Morning Macro</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css">
 <script type="module" src="https://widgets.tradingview-widget.com/w/br/tv-market-data.js"></script>
 </head>
@@ -13,13 +14,37 @@
 
 <header class="topbar">
   <div class="wrap topbar-inner">
-    <div class="logo">morning <span class="accent">macro</span></div>
+    <div class="brand">
+      <svg class="pdv-logo" viewBox="0 0 400 130" xmlns="http://www.w3.org/2000/svg" aria-label="Ponto de Vista">
+        <text x="2" y="30" font-family="'Playfair Display', Georgia, serif" font-size="15" letter-spacing="3" fill="var(--text)" opacity="0.9">PONTO DE</text>
+        <text x="-2" y="92" font-family="'Playfair Display', Georgia, serif" font-style="italic" font-weight="600" font-size="58" fill="var(--text)">VISTA</text>
+        <path d="M287.27,42.27 A18,18 0 1 1 312.73,42.27" fill="none" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/>
+        <path d="M275.96,30.96 A34,34 0 1 1 324.04,30.96" fill="none" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/>
+        <path d="M264.64,19.64 A50,50 0 1 1 335.36,19.64" fill="none" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/>
+        <polygon points="340,12 332.5,29.75 322.5,20.0" fill="var(--accent)"/>
+        <line x1="275" y1="80" x2="336" y2="16" stroke="var(--accent)" stroke-width="5" stroke-linecap="round"/>
+      </svg>
+      <div class="brand-sub">morning macro <span class="brand-sub-dim">· Alta Vista</span></div>
+    </div>
     <div class="topbar-actions">
-      <a class="btn btn-live" id="live-btn" href="https://www.youtube.com/@altavistainvestimentos/streams" target="_blank" rel="noopener">▶ Morning Call ao vivo</a>
-      <a class="btn btn-community" id="community-btn" href="https://chat.whatsapp.com/GtVnXYTSg9f3GX93RAEacA" target="_blank" rel="noopener">Comunidade</a>
+      <a class="btn btn-live" id="live-btn" href="https://www.youtube.com/@altavistainvestimentos/streams" target="_blank" rel="noopener">
+        <span id="live-dot" class="live-dot" hidden></span>
+        <span id="live-label">▶ Morning Call ao vivo</span>
+      </a>
+      <a class="btn btn-community" id="community-btn" href="https://chat.whatsapp.com/GtVnXYTSg9f3GX93RAEacA" target="_blank" rel="noopener">💬 Comunidade</a>
     </div>
   </div>
 </header>
+
+<nav class="subnav">
+  <div class="wrap subnav-inner" id="subnav">
+    <a href="#briefing" class="navlink" data-section="briefing">Briefing</a>
+    <a href="#agenda" class="navlink" data-section="agenda">Agenda</a>
+    <a href="#clipping" class="navlink" data-section="clipping">Clipping</a>
+    <a href="#mercados" class="navlink" data-section="mercados">Mercados</a>
+    <a href="#operacoes" class="navlink" data-section="operacoes">Operações</a>
+  </div>
+</nav>
 
 <main class="wrap">
 
@@ -31,23 +56,15 @@
     <p id="resumo-text">Carregando resumo do dia…</p>
   </section>
 
-  <nav class="tabs" id="tabs">
-    <button class="tab active" data-tab="briefing">Briefing</button>
-    <button class="tab" data-tab="agenda">Agenda</button>
-    <button class="tab" data-tab="clipping">Clipping</button>
-    <button class="tab" data-tab="mercados">Mercados</button>
-    <button class="tab" data-tab="operacoes">Operações</button>
-  </nav>
-
   <!-- BRIEFING -->
-  <section class="tab-panel active" id="panel-briefing">
+  <section class="page-section" id="briefing">
     <div class="section-title">Clipping em destaque</div>
     <div id="clipping-mini" class="clipping-list"></div>
   </section>
 
   <!-- AGENDA -->
-  <section class="tab-panel" id="panel-agenda">
-    <div class="section-title">Calendário econômico (Investing.com)</div>
+  <section class="page-section" id="agenda">
+    <div class="section-title">Calendário econômico</div>
     <div class="calendar-embed">
       <iframe src="https://sslecal2.investing.com/?columns=exc_flags,exc_currency,exc_importance,exc_actual,exc_forecast,exc_previous&category=_employment,_economicActivity,_inflation,_credit,_centralBanks,_confidenceIndex,_balance,_Bonds&importance=2,3&features=datepicker,timezone&countries=32,37,5,72&calType=week&timeZone=12&lang=12"
         width="100%" height="600" frameborder="0" allowtransparency="true"></iframe>
@@ -55,7 +72,7 @@
   </section>
 
   <!-- CLIPPING -->
-  <section class="tab-panel" id="panel-clipping">
+  <section class="page-section" id="clipping">
     <div class="section-title">🇧🇷 Brasil</div>
     <div id="clipping-brasil" class="clipping-list"></div>
 
@@ -67,17 +84,22 @@
   </section>
 
   <!-- MERCADOS -->
-  <section class="tab-panel" id="panel-mercados">
+  <section class="page-section" id="mercados">
     <div class="section-title">Mercados ao vivo</div>
-    <tv-market-data
-      symbol-sectors='[{"sectionName":"Indices","symbols":["VANTAGE:SP500","EIGHTCAP:NDQ100","CAPITALCOM:DXY","TVC:GOLD","SKILLING:BRENT","COINBASE:BTCUSD","BMFBOVESPA:IBOV","AMEX:EWZ","BMFBOVESPA:IFIX","AMEX:EEM"]}]'
-      view="performance">
-    </tv-market-data>
+    <div class="widget-frame">
+      <tv-market-data
+        symbol-sectors='[{"sectionName":"Indices","symbols":["VANTAGE:SP500","EIGHTCAP:NDQ100","CAPITALCOM:DXY","TVC:GOLD","SKILLING:BRENT","COINBASE:BTCUSD","BMFBOVESPA:IBOV","AMEX:EWZ","BMFBOVESPA:IFIX","AMEX:EEM"]}]'
+        view="performance">
+      </tv-market-data>
+    </div>
   </section>
 
   <!-- OPERAÇÕES -->
-  <section class="tab-panel" id="panel-operacoes">
+  <section class="page-section" id="operacoes">
     <div class="section-title">Operações</div>
+    <a class="op-banner" href="https://chat.whatsapp.com/GtVnXYTSg9f3GX93RAEacA" target="_blank" rel="noopener">
+      <img src="assets/img/banner-operacoes.svg" alt="Operações Alta Vista">
+    </a>
     <div class="table-wrap">
       <table id="operacoes-table">
         <thead>
