@@ -1,74 +1,37 @@
 {
   "brasil": [
     {
-      "title": "PIB dos EUA tem alta anualizada de 1,5% no 2º tri de 2026",
-      "link": "https://www.infomoney.com.br/economia/pib-dos-eua-tem-alta-anualizada-de-15-no-2o-tri-de-2026/",
+      "title": "Federal Reserve pode brecar o ciclo de IPOs de tecnologia nos EUA?",
+      "link": "https://www.infomoney.com.br/mercados/federal-reserve-pode-brecar-o-ciclo-de-ipos-da-ia-nos-eua/",
       "source": "InfoMoney",
-      "published": "Wed, 26 Aug 2026 12:54:05 +0000"
+      "published": "Thu, 27 Aug 2026 18:43:19 +0000"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26082026/",
+      "title": "Dólar a R$ 6? Morgan Stanley traça cenário negativo sem ajuste fiscal pós-eleições",
+      "link": "https://www.infomoney.com.br/mercados/dolar-a-r-6-morgan-stanley-traca-cenario-negativo-sem-ajuste-fiscal-pos-eleicoes/",
       "source": "InfoMoney",
-      "published": "Wed, 26 Aug 2026 12:51:19 +0000"
+      "published": "Thu, 27 Aug 2026 18:05:45 +0000"
     },
     {
-      "title": "Inflação nos EUA: núcleo do PCE sobe 0,2% em julho, dentro do esperado",
-      "link": "https://www.infomoney.com.br/economia/inflacao-nos-eua-nucleo-do-pce-sobe-02-em-julho-dentro-do-esperado/",
-      "source": "InfoMoney",
-      "published": "Wed, 26 Aug 2026 12:33:23 +0000"
-    },
-    {
-      "title": "Com Lula ou Flávio Bolsonaro, mercado mantém ceticismo sobre ajuste fiscal",
-      "link": "https://www.moneytimes.com.br/com-lula-ou-flavio-mercado-mantem-ceticismo-sobre-ajuste-fiscal-gaep/",
+      "title": "Braskem (BRKM5) dispara quase 19% na Bolsa com reforço bilionário em crédito da Petrobras (PETR4)",
+      "link": "https://www.moneytimes.com.br/braskem-brkm5-dispara-na-bolsa-com-reforco-bilionario-em-credito-da-petrobras-petr4-pads/",
       "source": "Money Times",
-      "published": "Wed, 26 Aug 2026 12:55:12 +0000"
+      "published": "Thu, 27 Aug 2026 18:58:02 +0000"
     },
     {
-      "title": "Trump pode ter até quatro chances de aumentar influência sobre comitê do Fed que decide juros",
-      "link": "https://www.moneytimes.com.br/trump-pode-ter-ate-quatro-chances-de-aumentar-influencia-sobre-comite-do-fed-que-decide-juros-jcav/",
+      "title": "Ouro avança à espera de sinalizações do Fed em Jackson Hole",
+      "link": "https://www.moneytimes.com.br/ouro-27-8-26-apsa/",
       "source": "Money Times",
-      "published": "Wed, 26 Aug 2026 12:54:25 +0000"
+      "published": "Thu, 27 Aug 2026 18:40:15 +0000"
     },
     {
-      "title": "PCE: Inflação preferida do Fed avança e acumula alta de 3,7% no ano",
-      "link": "https://www.moneytimes.com.br/pce-inflacao-preferida-do-fed-avanca-e-acumula-alta-de-37-no-ano/",
+      "title": "CEO de produtora de ‘Dark Horse’ pede a André Mendonça que leve inquérito sobre desvios em São Paulo ao STF",
+      "link": "https://www.moneytimes.com.br/dark-horse-ceo-de-produtora-pede-a-mendonca-que-leve-inquerito-sobre-desvios-em-sp-ao-stf-gaep/",
       "source": "Money Times",
-      "published": "Wed, 26 Aug 2026 12:37:21 +0000"
-    },
-    {
-      "title": "IPCA-15 registra deflação de 0,40% em agosto, mais intensa do que o esperado",
-      "link": "https://www.moneytimes.com.br/ipca-15-registra-deflacao-de-040-em-agosto-mais-intensa-do-que-o-esperado/",
-      "source": "Money Times",
-      "published": "Wed, 26 Aug 2026 12:11:13 +0000"
-    },
-    {
-      "title": "Ibovespa futuro avança com IPCA-15 e alívio nas tensões no Oriente Médio; dólar avança",
-      "link": "https://www.moneytimes.com.br/ibovespa-futuro-26-8-26-lils/",
-      "source": "Money Times",
-      "published": "Wed, 26 Aug 2026 12:08:09 +0000"
+      "published": "Thu, 27 Aug 2026 18:15:54 +0000"
     }
   ],
   "eua": [],
-  "internacional": [
-    {
-      "title": "Czech parliament approves looser budget deficit rules",
-      "link": "https://www.investing.com/news/economy-news/czech-parliament-approves-looser-budget-deficit-rules-93CH-4877200",
-      "source": "Investing.com",
-      "published": "2026-08-26 12:44:57"
-    },
-    {
-      "title": "Treasury yields muted after headline PCE ticks up ahead of Jackson Hole",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-slide-as-crude-tumble-overshadows-hawkish-ecb-warnings-4876453",
-      "source": "Investing.com",
-      "published": "2026-08-26 12:44:50"
-    },
-    {
-      "title": "Fed’s preferred inflation index matches prior month on annualized basis in July",
-      "link": "https://www.investing.com/news/economic-indicators/feds-preferred-inflation-index-matches-prior-month-on-annualized-basis-in-july-4877193",
-      "source": "Investing.com",
-      "published": "2026-08-26 12:43:48"
-    }
-  ],
-  "generated_at": "2026-08-26T12:56:30.540916+00:00"
+  "internacional": [],
+  "generated_at": "2026-08-27T18:58:09.019393+00:00"
 }
