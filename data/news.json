@@ -1,49 +1,62 @@
 {
   "brasil": [
     {
-      "title": "Ibovespa fecha em alta com impulso de Petrobras e amplia série positiva",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-27082026/",
+      "title": "Aposentadoria aos 67, BCP menor e MEI pagando mais: as propostas para a Previdência",
+      "link": "https://www.infomoney.com.br/economia/aposentadoria-aos-67-bcp-menor-e-mei-pagando-mais-as-propostas-para-a-previdencia/",
       "source": "InfoMoney",
-      "published": "Thu, 27 Aug 2026 21:03:52 +0000"
+      "published": "Fri, 28 Aug 2026 19:33:03 +0000"
     },
     {
-      "title": "PDT desiste de candidatura ao Senado em MG para abrir espaço a Aécio",
-      "link": "https://www.infomoney.com.br/politica/pdt-desiste-de-candidatura-ao-senado-em-mg-para-abrir-espaco-a-aecio/",
+      "title": "Aécio Neves volta atrás e disputará vaga ao Senado por Minas Gerais",
+      "link": "https://www.infomoney.com.br/politica/aecio-neves-volta-atras-e-disputara-vaga-ao-senado-por-minas-gerais/",
       "source": "InfoMoney",
-      "published": "Thu, 27 Aug 2026 20:58:42 +0000"
+      "published": "Fri, 28 Aug 2026 19:09:10 +0000"
     },
     {
-      "title": "Riedel reforça apoio a Flávio Bolsonaro no MS e prega direita unida no segundo turno",
-      "link": "https://www.infomoney.com.br/politica/riedel-reforca-apoio-a-flavio-bolsonaro-no-ms-e-prega-direita-unida-no-segundo-turno/",
+      "title": "Iene supera 160 por dólar e ameaça apagar efeito de intervenção histórica",
+      "link": "https://www.infomoney.com.br/mercados/iene-supera-160-por-dolar-e-ameaca-apagar-efeito-de-intervencao-historica/",
       "source": "InfoMoney",
-      "published": "Thu, 27 Aug 2026 20:58:16 +0000"
+      "published": "Fri, 28 Aug 2026 18:55:12 +0000"
     },
     {
-      "title": "Juros futuros de curto e médio prazo têm alívio de olho em dados domésticos e gringo na Bolsa",
-      "link": "https://www.moneytimes.com.br/juros-futuros-27-8-26-apsa/",
-      "source": "Money Times",
-      "published": "Thu, 27 Aug 2026 21:41:56 +0000"
+      "title": "Possível saída da Venezuela amplia crise de influência da Opep",
+      "link": "https://www.infomoney.com.br/mercados/possivel-saida-da-venezuela-amplia-crise-de-influencia-da-opep/",
+      "source": "InfoMoney",
+      "published": "Fri, 28 Aug 2026 18:46:06 +0000"
     },
     {
-      "title": "Ação de destaque na carteira de Barsi entra no radar do BTG, que faz alerta para dividendos",
-      "link": "https://www.moneytimes.com.br/acao-de-destaque-na-carteira-de-barsi-entra-no-radar-do-btg-que-faz-alerta-para-dividendos/",
+      "title": "Petróleo recua 6% na semana de olho em Ormuz",
+      "link": "https://www.moneytimes.com.br/petroleo-28-8-26-apsa/",
       "source": "Money Times",
-      "published": "Thu, 27 Aug 2026 20:50:04 +0000"
+      "published": "Fri, 28 Aug 2026 19:46:22 +0000"
     },
     {
-      "title": "Petróleo avança 1% de olho no Oriente Médio",
-      "link": "https://www.moneytimes.com.br/petroleo-27-8-26-apsa/",
+      "title": "Vorcaro nega à PF ter corrompido servidores do Banco Central e diz que poderia ‘falar mais’ com delação",
+      "link": "https://www.moneytimes.com.br/vorcaro-nega-a-pf-ter-corrompido-servidores-do-bc-e-diz-que-poderia-falar-mais-com-delacao-gaep/",
       "source": "Money Times",
-      "published": "Thu, 27 Aug 2026 20:32:30 +0000"
+      "published": "Fri, 28 Aug 2026 19:42:48 +0000"
     },
     {
-      "title": "STF forma maioria para tributar lucros da Vale no exterior",
-      "link": "https://www.moneytimes.com.br/stf-forma-maioria-para-tributar-lucros-da-vale-no-exterior/",
+      "title": "Aécio Neves diz que ‘mudou de rota’ e confirma candidatura ao Senado em Minas Gerais",
+      "link": "https://www.moneytimes.com.br/aecio-neves-diz-que-mudou-de-rota-e-confirma-candidatura-ao-senado-em-minas-gerais-gaep/",
       "source": "Money Times",
-      "published": "Thu, 27 Aug 2026 20:24:08 +0000"
+      "published": "Fri, 28 Aug 2026 19:33:45 +0000"
+    },
+    {
+      "title": "BC avalia travas para conter endividamento das famílias antes de teto para comprometimento da renda",
+      "link": "https://www.moneytimes.com.br/bc-avalia-travas-para-conter-endividamento-das-familias-antes-de-teto-para-comprometimento-da-renda/",
+      "source": "Money Times",
+      "published": "Fri, 28 Aug 2026 19:07:24 +0000"
     }
   ],
   "eua": [],
-  "internacional": [],
-  "generated_at": "2026-08-27T21:57:03.971171+00:00"
+  "internacional": [
+    {
+      "title": "Analysis-Warsh’s ’quieter Fed’ now includes a smidgen of guidance",
+      "link": "https://www.investing.com/news/economy-news/analysiswarshs-quieter-fed-now-includes-a-smidgen-of-guidance-4881771",
+      "source": "Investing.com",
+      "published": "2026-08-28 19:37:11"
+    }
+  ],
+  "generated_at": "2026-08-28T20:05:10.213573+00:00"
 }
