@@ -1,50 +1,55 @@
 {
   "brasil": [
     {
-      "title": "BCE eleva juros em meio a temores com a inflação por guerra no Irã",
-      "link": "https://www.infomoney.com.br/economia/bce-eleva-juros-em-meio-a-temores-com-a-inflacao-por-guerra-no-ira/",
+      "title": "Taxas dos DIs passam a cair em meio a especulações sobre disputa eleitoral",
+      "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-passam-a-cair-em-meio-a-especulacoes-sobre-disputa-eleitoral/",
       "source": "InfoMoney",
-      "published": "Thu, 10 Sep 2026 12:37:03 +0000"
+      "published": "Thu, 10 Sep 2026 16:00:43 +0000"
     },
     {
-      "title": "Dólar hoje acompanha exterior e opera em alta antes de leilões do BC",
+      "title": "Os 4 entraves que podem atrapalhar a queda dos juros em 2027, segundo a Itaú Asset",
+      "link": "https://www.infomoney.com.br/onde-investir/4-entraves-atrapalhar-queda-juros-2027-itau-asset/",
+      "source": "InfoMoney",
+      "published": "Thu, 10 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Operadores elevam apostas em alta de juros pelo Fed após dados de inflação",
+      "link": "https://www.infomoney.com.br/economia/operadores-elevam-apostas-em-alta-de-juros-pelo-fed-apos-dados-de-inflacao/",
+      "source": "InfoMoney",
+      "published": "Thu, 10 Sep 2026 15:58:49 +0000"
+    },
+    {
+      "title": "The Economist vê “risco à democracia” em desgaste do STF após caso Master",
+      "link": "https://www.infomoney.com.br/politica/the-economist-ve-risco-a-democracia-em-desgaste-do-stf-apos-caso-master/",
+      "source": "InfoMoney",
+      "published": "Thu, 10 Sep 2026 15:38:53 +0000"
+    },
+    {
+      "title": "O que faz Ibovespa sair de queda para alta de cerca de 1%? Cenário eleitoral explica",
+      "link": "https://www.infomoney.com.br/mercados/o-que-fez-ibovespa-sair-de-queda-para-alta-de-mais-de-1-cenario-eleitoral-explica/",
+      "source": "InfoMoney",
+      "published": "Thu, 10 Sep 2026 15:32:15 +0000"
+    },
+    {
+      "title": "Dólar hoje inverte sinal e opera em baixa com disputa eleitoral no foco",
       "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-10092026/",
       "source": "InfoMoney",
-      "published": "Thu, 10 Sep 2026 12:32:08 +0000"
+      "published": "Thu, 10 Sep 2026 15:27:42 +0000"
     },
     {
-      "title": "Ibovespa Futuro recua à espera da inflação dos EUA e de olho no cenário político",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-a-espera-da-inflacao-dos-eua-e-de-olho-no-cenario-politico/",
-      "source": "InfoMoney",
-      "published": "Thu, 10 Sep 2026 12:09:56 +0000"
-    },
-    {
-      "title": "André Mendonça, o ministro ‘terrivelmente evangélico’ do STF que molda a eleição no Brasil",
-      "link": "https://www.moneytimes.com.br/andre-mendonca-o-ministro-terrivelmente-evangelico-do-supremo-que-molda-a-eleicao-no-brasil-gaep/",
+      "title": "Flávio Dino retira sigilo de decisão que autorizou operação da Polícia Federal sobre ‘Dark Horse’",
+      "link": "https://www.moneytimes.com.br/flavio-dino-retira-sigilo-de-decisao-que-autorizou-operacao-sobre-dark-horse-gaep/",
       "source": "Money Times",
-      "published": "Thu, 10 Sep 2026 12:42:47 +0000"
+      "published": "Thu, 10 Sep 2026 15:52:51 +0000"
     },
     {
-      "title": "Ibovespa futuro cai com geopolítica e petróleo a US$ 102; dólar sobe",
-      "link": "https://www.moneytimes.com.br/ibovespa-futuro-10-9-16-lils/",
+      "title": "Cury defende que Moraes seja investigado e Renan Santos diz que crise no STF é disputa de ‘facções’",
+      "link": "https://www.moneytimes.com.br/cury-defende-que-moraes-seja-investigado-ate-as-ultimas-consequencias-gaep/",
       "source": "Money Times",
-      "published": "Thu, 10 Sep 2026 12:08:57 +0000"
-    },
-    {
-      "title": "Ibovespa aos 300 mil pontos? Empiricus e BTG Pactual revelam gatilho para o índice atingir patamar inédito",
-      "link": "https://www.moneytimes.com.br/ibovespa-aos-300-mil-pontos-empiricus-e-btg-pactual-revelam-gatilho-para-o-indice-atingir-patamar-inedito-lbdml128/",
-      "source": "Money Times",
-      "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+      "published": "Thu, 10 Sep 2026 15:39:19 +0000"
     }
   ],
-  "eua": [
-    {
-      "title": "RBC bullish on Technip Energies as record backlog boosts earnings outlook",
-      "link": "https://www.investing.com/news/stock-market-news/rbc-bullish-on-technip-energies-as-record-backlog-boosts-earnings-outlook-4895833",
-      "source": "Investing.com",
-      "published": "2026-09-10 12:15:14"
-    }
-  ],
+  "eua": [],
   "internacional": [],
-  "generated_at": "2026-09-10T12:47:43.226270+00:00"
+  "generated_at": "2026-09-10T16:01:24.903703+00:00"
 }
