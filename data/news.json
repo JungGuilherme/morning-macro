@@ -1,55 +1,44 @@
 {
   "brasil": [
     {
-      "title": "Juros do Tesouro abrem em alta pelo terceiro dia após disparada de taxas nos EUA",
-      "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-24092026/",
+      "title": "Governo discute concessões que vencem até 2032: quais elétricas da B3 podem ganhar?",
+      "link": "https://www.infomoney.com.br/mercados/governo-discute-concessoes-que-vencem-ate-2032-quais-eletricas-da-b3-podem-ganhar/",
       "source": "InfoMoney",
-      "published": "Thu, 24 Sep 2026 13:18:06 +0000"
+      "published": "Thu, 24 Sep 2026 16:35:30 +0000"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com política monetária, eleições e exterior no radar",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24092026/",
       "source": "InfoMoney",
-      "published": "Thu, 24 Sep 2026 13:09:22 +0000"
+      "published": "Thu, 24 Sep 2026 16:15:03 +0000"
     },
     {
-      "title": "BC diz não ver sinais de propagação inflacionária do choque recente do petróleo",
-      "link": "https://www.infomoney.com.br/economia/bc-diz-nao-ver-sinais-de-propagacao-inflacionaria-do-choque-recente-do-petroleo/",
-      "source": "InfoMoney",
-      "published": "Thu, 24 Sep 2026 12:33:22 +0000"
-    },
-    {
-      "title": "Este fundo imobiliário está uma ‘pechincha’ e pode disparar na B3, segundo a XP; veja potencial",
-      "link": "https://www.moneytimes.com.br/este-fundo-imobiliario-esta-uma-pechincha-e-pode-disparar-na-b3-segundo-a-xp-veja-potencial-igdl/",
+      "title": "Quem é amigo de um presidente é o povo, não o Vorcaro, diz Lula",
+      "link": "https://www.moneytimes.com.br/quem-e-amigo-de-um-presidente-e-o-povo-nao-o-vorcaro-diz-lula-gaep/",
       "source": "Money Times",
-      "published": "Wed, 23 Sep 2026 16:34:40 +0000"
+      "published": "Thu, 24 Sep 2026 15:36:39 +0000"
     },
     {
-      "title": "Suzano (SUZB3): Fundo do ciclo ficou para trás, diz BofA; veja potencial",
-      "link": "https://www.moneytimes.com.br/suzano-suzb3-fundo-do-ciclo-ficou-para-tras-diz-bofa-acao-pode-subir-36-pads/",
+      "title": "Governo reduz em R$ 1,9 bi contenção do Orçamento em 2026; confira",
+      "link": "https://www.moneytimes.com.br/governo-reduz-em-r-19-bi-contencao-do-orcamento-em-2026-confira-apsa/",
       "source": "Money Times",
-      "published": "Wed, 23 Sep 2026 15:59:58 +0000"
+      "published": "Thu, 24 Sep 2026 15:36:33 +0000"
     },
     {
-      "title": "Fluxo de caixa das big techs deve triplicar para o futuro do crescimento da inteligência artificial, aponta site",
-      "link": "https://www.moneytimes.com.br/fluxo-de-caixa-das-big-techs-deve-triplicar-para-o-futuro-do-crescimento-da-inteligencia-artificial-aponta-site-mlem/",
+      "title": "Caso Master: TCDF bloqueia até R$ 2,7 bi de ex-dirigentes do BRB",
+      "link": "https://www.moneytimes.com.br/caso-master-tcdf-bloqueia-ate-r-27-bi-de-ex-dirigentes-do-brb-ceci/",
       "source": "Money Times",
-      "published": "Wed, 23 Sep 2026 15:51:27 +0000"
-    },
-    {
-      "title": "Petrobras (PETR4) é a melhor opção para lucrar com alta do petróleo, diz UBS BB; veja potencial para dividendos",
-      "link": "https://www.moneytimes.com.br/petrobras-petr4-e-a-companhia-mais-bem-posicionada-no-cenario-de-petroleo-elevado-diz-ubs-bb-lils/",
-      "source": "Money Times",
-      "published": "Wed, 23 Sep 2026 15:38:36 +0000"
-    },
-    {
-      "title": "Flávio Bolsonaro diz que, se eleito, criará fundo para pagar parte da dívida pública",
-      "link": "https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-se-eleito-criara-fundo-para-pagar-parte-da-divida-publica-gaep/",
-      "source": "Money Times",
-      "published": "Wed, 23 Sep 2026 15:27:38 +0000"
+      "published": "Thu, 24 Sep 2026 14:46:29 +0000"
     }
   ],
   "eua": [],
-  "internacional": [],
-  "generated_at": "2026-09-24T13:24:17.696933+00:00"
+  "internacional": [
+    {
+      "title": "iA Financial Group at CIBC Eastern Institutional Investor Conference: growth stays on track",
+      "link": "https://www.investing.com/news/transcripts/ia-financial-group-at-cibc-eastern-institutional-investor-conference-growth-stays-on-track-93CH-4915886",
+      "source": "Investing.com",
+      "published": "2026-09-24 16:19:24"
+    }
+  ],
+  "generated_at": "2026-09-24T16:43:53.557924+00:00"
 }
