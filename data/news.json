@@ -1,43 +1,75 @@
 {
   "brasil": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e perde os 185 mil pontos",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01102026/",
+      "title": "Lula reeleito deve evitar ajuste fiscal, mas dólar não vai a R$ 6, diz gestor",
+      "link": "https://www.infomoney.com.br/onde-investir/lula-reeleito-deve-evitar-ajuste-fiscal-mas-dolar-nao-vai-a-r-6-diz-gestor/",
       "source": "InfoMoney",
-      "published": "Thu, 01 Oct 2026 15:10:57 +0000"
+      "published": "Thu, 01 Oct 2026 18:00:00 +0000"
     },
     {
-      "title": "Terras raras do Brasil na mira global: o que negócio bilionário indica além da Bolsa",
-      "link": "https://www.infomoney.com.br/mercados/terras-raras-do-brasil-na-mira-global-o-que-negocio-bilionario-indica-alem-da-bolsa/",
+      "title": "Trump diz acompanhar “muito de perto” a eleição brasileira: “País muito importante”",
+      "link": "https://www.infomoney.com.br/mundo/trump-diz-acompanhar-muito-de-perto-a-eleicao-brasileira-pais-muito-importante/",
       "source": "InfoMoney",
-      "published": "Thu, 01 Oct 2026 15:10:42 +0000"
+      "published": "Thu, 01 Oct 2026 17:51:46 +0000"
     },
     {
-      "title": "Produção de petróleo do Brasil bate recorde pelo 3º mês consecutivo em agosto",
-      "link": "https://www.infomoney.com.br/mercados/producao-de-petroleo-do-brasil-bate-recorde-pelo-3o-mes-consecutivo-em-agosto/",
+      "title": "Reino Unido atinge juros de 6% em títulos e revive temor da crise do euro",
+      "link": "https://www.infomoney.com.br/mercados/reino-unido-atinge-juros-de-6-em-titulos-e-revive-temor-da-crise-do-euro/",
       "source": "InfoMoney",
-      "published": "Thu, 01 Oct 2026 14:55:16 +0000"
+      "published": "Thu, 01 Oct 2026 17:30:43 +0000"
     },
     {
-      "title": "‘Tempestade’ nos títulos globais: Treasuries vão a máximas de 24 anos com petróleo acima de US$ 100",
-      "link": "https://www.moneytimes.com.br/tempestade-nos-titulos-globais-treasuries-vao-a-maximas-lils/",
+      "title": "Criptomoedas: Essas duas regras do Banco Central passam a valer hoje; veja",
+      "link": "https://www.moneytimes.com.br/criptomoedas-essas-duas-regras-do-banco-central-passam-a-valer-hoje-veja-rens/",
       "source": "Money Times",
-      "published": "Thu, 01 Oct 2026 15:12:07 +0000"
+      "published": "Thu, 01 Oct 2026 17:35:34 +0000"
     },
     {
-      "title": "Wall Street recua com dois temores conhecidos do mercado no radar",
-      "link": "https://www.moneytimes.com.br/wall-street-abertura-1-10-26-apsa/",
+      "title": "Vale (VALE3), Suzano (SUZB3) e mais: As ações recomendadas pelo Andbank com potencial de alta de até 49%",
+      "link": "https://www.moneytimes.com.br/val-vale3-suzano-suzb3-e-mais-as-acoes-recomendadas-pelo-andbank-com-potencial-de-alta-de-ate-49-jcav/",
       "source": "Money Times",
-      "published": "Thu, 01 Oct 2026 15:07:35 +0000"
+      "published": "Thu, 01 Oct 2026 17:18:36 +0000"
     },
     {
-      "title": "Azzas 2154 (AZZA3): Ações disparam 8% com propostas pela Farm no radar; o que está na mesa?",
-      "link": "https://www.moneytimes.com.br/azzas-2154-azza3-acoes-disparam-8-com-propostas-pela-farm-no-radar-o-que-esta-na-mesa-lmrs/",
+      "title": "Governo Trump destina US$ 1 milhão a projeto que se opõe à atuação do STF, diz jornal britânico",
+      "link": "https://www.moneytimes.com.br/governo-trump-destina-us-1-milhao-a-projeto-que-se-opoe-a-atuacao-do-stf-diz-jornal-britanico-gaep/",
       "source": "Money Times",
-      "published": "Thu, 01 Oct 2026 14:27:37 +0000"
+      "published": "Thu, 01 Oct 2026 17:14:45 +0000"
+    },
+    {
+      "title": "Juros reais de dois dígitos? Veja a classe de investimentos, isenta de IR, com ativos que chegam a IPCA+ 10,68% ao ano",
+      "link": "https://www.moneytimes.com.br/juros-reais-de-dois-digitos-veja-a-classe-de-investimentos-isenta-de-ir-com-ativos-que-chegam-a-ipca-1068-ao-ano-lbrdml130/",
+      "source": "Money Times",
+      "published": "Thu, 01 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Vai chover ou fazer sol no dia da eleição? Veja a previsão do tempo",
+      "link": "https://www.moneytimes.com.br/eleicao-com-chuva-ou-sol-veja-previsao-do-tempo-rsgp/",
+      "source": "Money Times",
+      "published": "Thu, 01 Oct 2026 16:50:06 +0000"
     }
   ],
-  "eua": [],
-  "internacional": [],
-  "generated_at": "2026-10-01T15:15:18.711304+00:00"
+  "eua": [
+    {
+      "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
+      "link": "https://www.investing.com/news/stock-market-news/nonfarm-payrolls-unemployment-rate-and-hourly-earnings-due-friday-93CH-4928058",
+      "source": "Investing.com",
+      "published": "2026-10-01 18:01:33"
+    }
+  ],
+  "internacional": [
+    {
+      "title": "Treasury yields reach multi-decade highs on economic data",
+      "link": "https://www.investing.com/news/economy-news/treasury-yields-reach-multidecade-highs-on-economic-data-93CH-4928060",
+      "source": "Investing.com",
+      "published": "2026-10-01 18:02:37"
+    },
+    {
+      "title": "Nonfarm payrolls, unemployment rate and hourly earnings due Friday",
+      "link": "https://www.investing.com/news/stock-market-news/nonfarm-payrolls-unemployment-rate-and-hourly-earnings-due-friday-93CH-4928058",
+      "source": "Investing.com",
+      "published": "2026-10-01 18:01:33"
+    }
+  ],
+  "generated_at": "2026-10-01T18:11:39.169133+00:00"
 }
