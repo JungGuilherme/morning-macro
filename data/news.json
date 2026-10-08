@@ -1,55 +1,62 @@
 {
   "brasil": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com PETR4, VALE3 e bancos, aos 207 mil pontos",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08102026/",
+      "title": "Tesouro faz maior venda de prefixados desde 2020, embalado por cenário eleitoral",
+      "link": "https://www.infomoney.com.br/onde-investir/tesouro-faz-maior-venda-de-prefixados-desde-2020-embalado-por-cenario-eleitoral/",
       "source": "InfoMoney",
-      "published": "Thu, 08 Oct 2026 15:15:24 +0000"
+      "published": "Thu, 08 Oct 2026 18:35:10 +0000"
     },
     {
-      "title": "Casas Bahia afirma que laudo sobre estoque é preliminar, mas confirma informações",
-      "link": "https://www.infomoney.com.br/mercados/casas-bahia-afirma-que-laudo-sobre-estoque-e-preliminar-mas-confirma-informacoes/",
-      "source": "InfoMoney",
-      "published": "Thu, 08 Oct 2026 15:14:55 +0000"
-    },
-    {
-      "title": "Wall Street cai com títulos e petróleo sinalizando risco de inflação",
-      "link": "https://www.infomoney.com.br/mercados/wall-street-cai-com-titulos-e-petroleo-sinalizando-risco-de-inflacao/",
-      "source": "InfoMoney",
-      "published": "Thu, 08 Oct 2026 15:12:26 +0000"
-    },
-    {
-      "title": "Real ganha 10,9% ante o dólar em 2026, em maior avanço desde 2025",
-      "link": "https://www.infomoney.com.br/mercados/real-ganha-109-ante-o-dolar-em-2026-em-maior-avanco-desde-2025/",
-      "source": "InfoMoney",
-      "published": "Thu, 08 Oct 2026 15:09:51 +0000"
-    },
-    {
-      "title": "Quase 15% em um dia: quanto você poderia ter ganhado com o Tesouro após as eleições?",
-      "link": "https://www.moneytimes.com.br/quase-15-em-um-dia-quanto-voce-poderia-ter-ganhado-com-o-tesouro-apos-as-eleicoes/",
+      "title": "Regulação do BC: Méliuz (CASH3) encerra negociação de bitcoin no aplicativo; estratégia de tesouraria continua?",
+      "link": "https://www.moneytimes.com.br/regulacao-do-bc-meliuz-cash3-encerra-negociacao-de-bitcoin-no-aplicativo-estrategia-de-tesouraria-continua-rens/",
       "source": "Money Times",
-      "published": "Thu, 08 Oct 2026 15:17:44 +0000"
+      "published": "Thu, 08 Oct 2026 18:31:41 +0000"
     },
     {
-      "title": "Dividendos de até 12,1%: BTG indica 8 FIIs de tijolo com desconto; veja quais",
-      "link": "https://www.moneytimes.com.br/btg-indica-8-fiis-de-tijolo-com-desconto-e-dividendos-de-ate-121-veja-quais-igdl/",
+      "title": "Ouro fecha avança com alívio do dólar e dos Treasuries",
+      "link": "https://www.moneytimes.com.br/ouro-8-10-26-apsa/",
       "source": "Money Times",
-      "published": "Thu, 08 Oct 2026 15:09:29 +0000"
+      "published": "Thu, 08 Oct 2026 18:13:00 +0000"
     },
     {
-      "title": "Flávio Bolsonaro afirma que dará reajuste acima da inflação para aposentadorias",
-      "link": "https://www.moneytimes.com.br/flavio-bolsonaro-afirma-que-dara-reajuste-acima-da-inflacao-para-aposentadorias/",
+      "title": "Retorno acima de IPCA+ 8%? BB Investimentos seleciona títulos de renda fixa para outubro",
+      "link": "https://www.moneytimes.com.br/retorno-acima-de-ipca-8-bb-investimentos-seleciona-titulos-de-renda-fixa-para-outubro/",
       "source": "Money Times",
-      "published": "Thu, 08 Oct 2026 15:02:07 +0000"
+      "published": "Thu, 08 Oct 2026 18:10:40 +0000"
     },
     {
-      "title": "PetroReconcavo (RECV3) sobe com petróleo acima de US$ 100, mas produção ‘fraca’ limita ganhos",
-      "link": "https://www.moneytimes.com.br/petroreconcavo-recv3-sobe-com-petroleo-acima-de-us-100-mas-producao-fraca-limita-ganhos-lils/",
+      "title": "Bolsas da Europa estendem perdas com petróleo e títulos soberanos no radar",
+      "link": "https://www.moneytimes.com.br/europa-8-10-26-apsa/",
       "source": "Money Times",
-      "published": "Thu, 08 Oct 2026 14:43:50 +0000"
+      "published": "Thu, 08 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Paes vai ao STF contra decisão do TSE que anula votos de Garotinho e pede 2º turno no RJ",
+      "link": "https://www.moneytimes.com.br/paes-vai-ao-stf-contra-decisao-do-tse-que-anula-votos-de-garotinho-e-pede-2o-turno-no-rj/",
+      "source": "Money Times",
+      "published": "Thu, 08 Oct 2026 17:27:53 +0000"
+    },
+    {
+      "title": "Mercado financeiro já comemora vitória de Flávio Bolsonaro sobre Lula, mas especialistas fazem alerta sobre ajuste fiscal",
+      "link": "https://www.moneytimes.com.br/mercado-financeiro-comemora-vitoria-flavio-bolsonaro-sobre-lula-mas-especialistas-fazem-alerta-sobre-ajuste-fiscal-rsgp-bdap/",
+      "source": "Money Times",
+      "published": "Thu, 08 Oct 2026 17:03:15 +0000"
+    },
+    {
+      "title": "Em vídeos, Lula diz que Flávio cortará programas sociais e entregará Brasil ao crime",
+      "link": "https://www.moneytimes.com.br/em-videos-lula-diz-que-flavio-cortara-programas-sociais-e-entregara-brasil-ao-crime/",
+      "source": "Money Times",
+      "published": "Thu, 08 Oct 2026 16:48:46 +0000"
     }
   ],
   "eua": [],
-  "internacional": [],
-  "generated_at": "2026-10-08T15:23:43.534553+00:00"
+  "internacional": [
+    {
+      "title": "Fed’s Musalem says lowering inflation will require more rate hikes",
+      "link": "https://www.investing.com/news/economy-news/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-4939596",
+      "source": "Investing.com",
+      "published": "2026-10-08 18:12:31"
+    }
+  ],
+  "generated_at": "2026-10-08T18:35:48.921809+00:00"
 }
