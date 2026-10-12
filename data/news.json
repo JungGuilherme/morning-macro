@@ -1,68 +1,69 @@
 {
   "brasil": [
     {
-      "title": "Furacão Isaías avança e traz mais pressões nos preços dos combustíveis dos EUA",
-      "link": "https://www.infomoney.com.br/economia/furacao-isaias-avanca-e-traz-mais-pressoes-nos-precos-dos-combustiveis-dos-eua/",
+      "title": "Bolsas da Europa sobem, à espera de balanços e com conflitos geopolíticos no radar",
+      "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-sobem-a-espera-de-balancos-e-com-conflitos-geopoliticos-no-radar/",
       "source": "InfoMoney",
-      "published": "Fri, 09 Oct 2026 17:46:15 +0000"
+      "published": "Mon, 12 Oct 2026 16:51:37 +0000"
     },
     {
-      "title": "Menos juros, mais lucro: Morgan Stanley aponta quais ações ganham mais nesse cenário",
-      "link": "https://www.infomoney.com.br/mercados/menos-juros-mais-lucro-morgan-stanley-aponta-quais-acoes-ganham-mais-nesse-cenario/",
-      "source": "InfoMoney",
-      "published": "Fri, 09 Oct 2026 17:30:00 +0000"
-    },
-    {
-      "title": "Frete de petróleo dos EUA para China já custa mais do que lançar um foguete ao espaço",
-      "link": "https://www.infomoney.com.br/mercados/frete-de-petroleo-dos-eua-para-china-ja-custa-mais-do-que-lancar-um-foguete-ao-espaco/",
-      "source": "InfoMoney",
-      "published": "Fri, 09 Oct 2026 17:19:02 +0000"
-    },
-    {
-      "title": "Bolsas da Europa avançam de olho no petróleo",
-      "link": "https://www.moneytimes.com.br/europa-9-10-26-apsa/",
+      "title": "Bolsas da Europa fecham em alta, com conflitos geopolíticos no radar e à espera de balanços",
+      "link": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-alta-a-espera-de-balancos-e-com-conflitos-geopoliticos-no-radar-igdl/",
       "source": "Money Times",
-      "published": "Fri, 09 Oct 2026 17:41:16 +0000"
+      "published": "Mon, 12 Oct 2026 16:32:00 +0000"
     },
     {
-      "title": "Polícia Federal desmente publicação que ligava Daniel Vorcaro a filme sobre Lula; ‘não prestou depoimento’",
-      "link": "https://www.moneytimes.com.br/policia-federal-desmente-publicacao-que-ligava-daniel-vorcaro-a-filme-sobre-lula-nao-prestou-depoimento-rens/",
+      "title": "EWZ sobe em Nova York em dia de feriado no Brasil; veja as projeções para o Ibovespa e o potencial de alta até 2027",
+      "link": "https://www.moneytimes.com.br/ewz-sobe-em-nova-york-em-dia-de-feriado-no-brasil-veja-ate-onde-o-ibovespa-pode-chegar-segundo-analistas-igdl/",
       "source": "Money Times",
-      "published": "Fri, 09 Oct 2026 17:37:55 +0000"
+      "published": "Mon, 12 Oct 2026 16:01:13 +0000"
     },
     {
-      "title": "Governo estima que oferta de diesel no Brasil supere demanda em 6% em outubro",
-      "link": "https://www.moneytimes.com.br/governo-estima-que-oferta-de-diesel-no-brasil-supere-demanda-em-6-em-outubro-igdl/",
+      "title": "Lula: Brasil pode virar Argentina com Flávio Bolsonaro na Presidência",
+      "link": "https://www.moneytimes.com.br/lula-brasil-pode-virar-argentina-com-flavio-bolsonaro-na-presidencia-igdl/",
       "source": "Money Times",
-      "published": "Fri, 09 Oct 2026 16:38:14 +0000"
+      "published": "Mon, 12 Oct 2026 15:18:00 +0000"
     },
     {
-      "title": "Governo Lula amplia subsídios sobre gasolina, etanol e diesel a duas semanas do segundo turno",
-      "link": "https://www.moneytimes.com.br/governo-lula-amplia-subsidios-sobre-gasolina-etanol-e-diesel-a-duas-semanas-do-2o-turno-igdl/",
+      "title": "Moraes libera visitas de Flávio a Jair Bolsonaro após 90 dias de proibição",
+      "link": "https://www.moneytimes.com.br/moraes-libera-visitas-de-flavio-a-jair-bolsonaro-apos-90-dias-de-proibicao-igdl/",
       "source": "Money Times",
-      "published": "Fri, 09 Oct 2026 16:11:00 +0000"
+      "published": "Mon, 12 Oct 2026 15:13:00 +0000"
     },
     {
-      "title": "IPCA veio alto, mas mercado está de olho em outro fator, segundo analista da Empiricus",
-      "link": "https://www.moneytimes.com.br/ipca-veio-alto-mas-mercado-esta-de-olho-em-outro-fator-segundo-analista-da-empiricus-mlem/",
+      "title": "Bolsas internacionais: Exterior tenta firmar tom positivo com balanços, mas custos de energia preocupam",
+      "link": "https://www.moneytimes.com.br/bolsas-internacionais-exterior-tenta-firmar-tom-positivo-com-balancos-mas-custos-de-energia-preocupam-rens/",
       "source": "Money Times",
-      "published": "Fri, 09 Oct 2026 15:58:26 +0000"
+      "published": "Mon, 12 Oct 2026 12:59:01 +0000"
+    },
+    {
+      "title": "China anuncia sanções a ministros de Paraguai e Belize por laços com Taiwan",
+      "link": "https://www.moneytimes.com.br/china-anuncia-sancoes-a-ministros-de-paraguai-e-belize-por-lacos-com-taiwan-rens/",
+      "source": "Money Times",
+      "published": "Mon, 12 Oct 2026 12:05:28 +0000"
     }
   ],
-  "eua": [],
+  "eua": [
+    {
+      "title": "U.S. inflation data preview: September CPI and what it means for markets",
+      "link": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
+      "source": "Investing.com",
+      "published": "2026-10-12 17:20:53"
+    }
+  ],
   "internacional": [
     {
-      "title": "Trump renews bid to fire Fed’s Cook with fresh White House inquiry",
-      "link": "https://www.investing.com/news/economy-news/trump-launches-committee-to-probe-feds-lisa-cook-white-house-statement-4941345",
+      "title": "U.S. inflation data preview: September CPI and what it means for markets",
+      "link": "https://www.investing.com/news/stock-market-news/us-inflation-data-preview-september-cpi-and-what-it-means-for-markets-93CH-4945005",
       "source": "Investing.com",
-      "published": "2026-10-09 17:54:18"
+      "published": "2026-10-12 17:20:53"
     },
     {
-      "title": "Gold prices hit one-week high, investors eye Fed rate trajectory",
-      "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+      "title": "Fed’s Hammack calls for quick move to restrictive policy",
+      "link": "https://www.investing.com/news/economy-news/feds-hammack-calls-for-quick-move-to-restrictive-policy-4945003",
       "source": "Investing.com",
-      "published": "2026-10-09 17:51:41"
+      "published": "2026-10-12 17:19:12"
     }
   ],
-  "generated_at": "2026-10-09T18:07:04.423484+00:00"
+  "generated_at": "2026-10-12T17:34:28.049523+00:00"
 }
