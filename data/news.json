@@ -1,50 +1,43 @@
 {
   "brasil": [
     {
-      "title": "Bolsas de NY fecham sem direção em dia de liquidez reduzida e geopolítica no radar",
-      "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/",
+      "title": "B3 lança quatro contratos futuros de Treasuries para negociação em reais",
+      "link": "https://www.infomoney.com.br/mercados/b3-lanca-quatro-contratos-futuros-de-treasuries-para-negociacao-em-reais/",
       "source": "InfoMoney",
-      "published": "Mon, 12 Oct 2026 20:37:08 +0000"
+      "published": "Tue, 13 Oct 2026 15:31:28 +0000"
     },
     {
-      "title": "Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA",
-      "link": "https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/",
+      "title": "De realização de lucros à cautela eleitoral: o que faz Ibovespa cair após recordes",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-so-realizacao-de-lucros-ou-cautela-eleitoral-o-que-faz-indice-cair-apos-recordes/",
       "source": "InfoMoney",
-      "published": "Mon, 12 Oct 2026 20:17:16 +0000"
+      "published": "Tue, 13 Oct 2026 15:30:26 +0000"
     },
     {
-      "title": "Petróleo sobe com ataques houthis contra sauditas e falha de cessar-fogo na Ucrânia",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-12102026/",
-      "source": "InfoMoney",
-      "published": "Mon, 12 Oct 2026 19:55:44 +0000"
-    },
-    {
-      "title": "Petróleo fecha em alta com ataques houthis contra sauditas e falha de cessar-fogo na Ucrânia",
-      "link": "https://www.moneytimes.com.br/petroleo-fecha-em-alta-com-ataques-houthis-contra-sauditas-e-falha-de-cessar-fogo-na-ucrania/",
+      "title": "‘Pix’ de R$ 5 mil e perdão das dívidas para até 3,6 milhões: governo Lula anuncia pacote para MEIs",
+      "link": "https://www.moneytimes.com.br/pix-mei-de-r-5-mil-e-perdao-das-dividas-entenda-o-pacote-anunciado-pelo-governo-lula-para-microempreendedores/",
       "source": "Money Times",
-      "published": "Mon, 12 Oct 2026 19:39:40 +0000"
+      "published": "Tue, 13 Oct 2026 15:26:52 +0000"
     },
     {
-      "title": "Wall Street opera mista com alta dos preços do petróleo, de olho em balanços e dados",
-      "link": "https://www.moneytimes.com.br/wall-street-opera-mista-com-alta-dos-precos-do-petroleo-de-olho-em-balancos-e-dados/",
+      "title": "Governo anuncia perdão de R$ 12,6 bi em dívidas tributárias de MEIs a 12 dias da eleição",
+      "link": "https://www.moneytimes.com.br/governo-federal-anuncia-perdao-de-r126-bi-em-dividas-tributarias-de-meis-a-12-dias-da-eleicao/",
       "source": "Money Times",
-      "published": "Mon, 12 Oct 2026 19:22:27 +0000"
+      "published": "Tue, 13 Oct 2026 14:39:34 +0000"
     },
     {
-      "title": "Tereza Cristina vê ambiente para discutir impeachment de ministros do STF a partir de 2027",
-      "link": "https://www.moneytimes.com.br/tereza-cristina-ve-ambiente-para-investigar-ministros-do-stf-e-diz-que-senado-sera-cobrado-igdl/",
+      "title": "Colheita de milho da China deve crescer; milho dos EUA ‘ainda não é opção’, diz diretor da Cofco Futures",
+      "link": "https://www.moneytimes.com.br/colheita-de-milho-da-china-deve-crescer-milho-dos-eua-ainda-nao-e-opcao-diz-diretor-da-cofco-futures-pads/",
       "source": "Money Times",
-      "published": "Mon, 12 Oct 2026 18:29:00 +0000"
+      "published": "Tue, 13 Oct 2026 14:34:21 +0000"
+    },
+    {
+      "title": "Movida (MOVI3) despenca 10% após prévia do 3T26 – mas o motivo é outro",
+      "link": "https://www.moneytimes.com.br/movida-movi3-despenca-10-apos-previa-do-3t26-mas-o-motivo-e-outro-lils/",
+      "source": "Money Times",
+      "published": "Tue, 13 Oct 2026 14:33:50 +0000"
     }
   ],
-  "eua": [
-    {
-      "title": "Wall Street kicks off key week of bank earnings and CPI data with a mixed session",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-tracking-oil-price-decline-q3-earnings-on-tap-4942973",
-      "source": "Investing.com",
-      "published": "2026-10-12 20:14:15"
-    }
-  ],
+  "eua": [],
   "internacional": [],
-  "generated_at": "2026-10-12T21:02:29.886928+00:00"
+  "generated_at": "2026-10-13T15:43:57.932358+00:00"
 }
