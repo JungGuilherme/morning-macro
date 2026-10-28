@@ -1,49 +1,81 @@
 {
   "brasil": [
     {
-      "title": "Dólar hoje sobe com cenário político e decisão de juros do Fed no radar",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28102026/",
+      "title": "Fed mantém juros entre 3,75% e 4%",
+      "link": "https://www.infomoney.com.br/economia/juros-fed-eua-outubro-2026/",
       "source": "InfoMoney",
-      "published": "Wed, 28 Oct 2026 14:54:33 +0000"
+      "published": "Wed, 28 Oct 2026 18:00:21 +0000"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai 3%, perde 5 mil pontos e opera abaixo dos 171 mil",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai 3% e ronda os 171 mil pontos",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/",
       "source": "InfoMoney",
-      "published": "Wed, 28 Oct 2026 14:35:13 +0000"
+      "published": "Wed, 28 Oct 2026 18:00:16 +0000"
     },
     {
-      "title": "Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40%",
-      "link": "https://www.infomoney.com.br/economia/cambio-ajuda-e-busca-de-argentinos-por-pacotes-turisticos-no-brasil-cresce-40/",
+      "title": "Tesouro Direto: como investir agora, com taxas em vaivém após a eleição",
+      "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-como-investir-agora-com-taxas-em-vaivem-apos-a-eleicao/",
       "source": "InfoMoney",
-      "published": "Wed, 28 Oct 2026 14:04:40 +0000"
+      "published": "Wed, 28 Oct 2026 18:00:00 +0000"
     },
     {
-      "title": "Hypera (HYPE3) sobe forte na contramão do Ibovespa após balanço positivo no 3º tri",
-      "link": "https://www.infomoney.com.br/mercados/hypera-hype3-sobe-forte-na-contramao-do-ibovespa-apos-balanco-positivo-no-3o-tri/",
+      "title": "Guerra e El Niño devem elevar preços de commodities em 23% no ano, diz Banco Mundial",
+      "link": "https://www.infomoney.com.br/economia/guerra-e-el-nino-devem-elevar-precos-de-commodities-em-23-no-ano-diz-banco-mundial/",
       "source": "InfoMoney",
-      "published": "Wed, 28 Oct 2026 13:43:49 +0000"
+      "published": "Wed, 28 Oct 2026 17:51:17 +0000"
     },
     {
-      "title": "Trump aceita reunião com Putin sem Zelenski e quer discutir armas nucleares com Xi",
-      "link": "https://www.infomoney.com.br/mundo/trump-aceita-reuniao-com-putin-sem-zelenski-e-quer-discutir-armas-nucleares-com-xi/",
-      "source": "InfoMoney",
-      "published": "Wed, 28 Oct 2026 13:36:15 +0000"
-    },
-    {
-      "title": "Governo estuda aplicar IOF sobre LCI, LCA e outros isentos, diz jornal; medida pode ser adotada por decreto",
-      "link": "https://www.moneytimes.com.br/governo-estuda-aplicar-iof-sobre-lci-lca-e-outros-isentos-diz-jornal-mlim/",
+      "title": "‘Não existe cortar gastos no Brasil’, avalia Zeina Latif, que defende ajustes no abono salarial e no BPC",
+      "link": "https://www.moneytimes.com.br/nao-existe-corte-de-gastos-no-brasil-mas-uma-reducao-do-crescimento-das-despesas-avalia-zeina-latif-apsa/",
       "source": "Money Times",
-      "published": "Wed, 28 Oct 2026 14:11:19 +0000"
+      "published": "Wed, 28 Oct 2026 16:50:13 +0000"
     },
     {
-      "title": "Ibovespa acompanha cautela externa e cai à espera de decisão de juros nos EUA; 5 coisas para saber antes de investir hoje (28)",
-      "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-28-10-26-lils/",
+      "title": "Ibovespa amarga 3º dia de queda após eleições e já recua 17% na semana",
+      "link": "https://www.moneytimes.com.br/ibovespa-amarga-3o-dia-de-queda-apos-eleicoes-e-ja-recua-17-na-semana-lils/",
       "source": "Money Times",
-      "published": "Wed, 28 Oct 2026 13:13:51 +0000"
+      "published": "Wed, 28 Oct 2026 15:43:18 +0000"
+    },
+    {
+      "title": "Hypera (HYPE3) sobe na contramão do Ibovespa após balanço do 3T26; o que animou o mercado?",
+      "link": "https://www.moneytimes.com.br/hypera-hype3-sobe-na-contramao-do-ibovespa-apos-balanco-apos-balanco-do-3t26-o-que-animou-o-mercado-lmrs/",
+      "source": "Money Times",
+      "published": "Wed, 28 Oct 2026 15:32:32 +0000"
+    },
+    {
+      "title": "Flávio Bolsonaro chega a Miami com esposa e filhas após eleições; entenda a rota de fuga do senador",
+      "link": "https://www.moneytimes.com.br/flavio-bolsonaro-chega-a-miami-com-esposa-e-filhas-apos-eleicoes-entenda-a-rota-da-fuga-do-senador-davs/",
+      "source": "Money Times",
+      "published": "Wed, 28 Oct 2026 15:07:54 +0000"
     }
   ],
-  "eua": [],
-  "internacional": [],
-  "generated_at": "2026-10-28T14:57:15.241114+00:00"
+  "eua": [
+    {
+      "title": "European shares edge higher ahead of Big Tech, Fed test",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-stutter-as-bank-earnings-fail-to-offset-prefed-jitters-4977566",
+      "source": "Investing.com",
+      "published": "2026-10-28 17:45:36"
+    },
+    {
+      "title": "Palantir defense chief says AI advances may force China to invade Taiwan",
+      "link": "https://www.investing.com/news/stock-market-news/palantir-defense-chief-says-ai-advances-may-force-china-to-invade-taiwan-4980393",
+      "source": "Investing.com",
+      "published": "2026-10-28 17:45:14"
+    }
+  ],
+  "internacional": [
+    {
+      "title": "European shares edge higher ahead of Big Tech, Fed test",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-stutter-as-bank-earnings-fail-to-offset-prefed-jitters-4977566",
+      "source": "Investing.com",
+      "published": "2026-10-28 17:45:36"
+    },
+    {
+      "title": "Palantir defense chief says AI advances may force China to invade Taiwan",
+      "link": "https://www.investing.com/news/stock-market-news/palantir-defense-chief-says-ai-advances-may-force-china-to-invade-taiwan-4980393",
+      "source": "Investing.com",
+      "published": "2026-10-28 17:45:14"
+    }
+  ],
+  "generated_at": "2026-10-28T18:02:05.275504+00:00"
 }
