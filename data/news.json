@@ -1,34 +1,40 @@
 {
   "brasil": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai, mas reduz perdas com ajuda de VALE3 e PETR4",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa desce com exterior e fiscal, apesar de VALE3 e PETR4",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/",
       "source": "InfoMoney",
-      "published": "Fri, 30 Oct 2026 14:42:45 +0000"
+      "published": "Fri, 30 Oct 2026 17:45:36 +0000"
     },
     {
-      "title": "PPSA: Petrobras, CNOOC e Petrochina vencem 10º leilão spot de petróleo da União",
-      "link": "https://www.infomoney.com.br/mercados/ppsa-petrobras-cnooc-e-petrochina-vencem-10o-leilao-spot-de-petroleo-da-uniao/",
+      "title": "Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos",
+      "link": "https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026-2/",
       "source": "InfoMoney",
-      "published": "Fri, 30 Oct 2026 14:34:15 +0000"
+      "published": "Fri, 30 Oct 2026 17:23:28 +0000"
     },
     {
-      "title": "Taxas dos DIs voltam a subir ainda sob o impacto da reeleição de Lula",
-      "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-voltam-a-subir-ainda-sob-o-impacto-da-reeleicao-de-lula/",
+      "title": "Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas",
+      "link": "https://www.infomoney.com.br/mercados/apos-eleicao-o-que-mudou-na-tese-de-petroleiras-petrobras-e-prio-sao-as-preferidas/",
       "source": "InfoMoney",
-      "published": "Fri, 30 Oct 2026 14:26:20 +0000"
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Do rali à ressaca: o que a eleição fez com os seus investimentos em outubro",
-      "link": "https://www.infomoney.com.br/onde-investir/do-rali-a-ressaca-o-que-a-eleicao-fez-com-os-seus-investimentos-em-outubro/",
-      "source": "InfoMoney",
-      "published": "Fri, 30 Oct 2026 14:00:00 +0000"
+      "title": "Vale (VALE3): CFO prevê trégua nos custos no 4T26 e revela estratégia que já ‘poupou’ US$ 3 bilhões",
+      "link": "https://www.moneytimes.com.br/vale-vale3-cfo-preve-tregua-nos-custos-no-4t26-e-revela-estrategia-que-ja-poupou-us-3-bilhoes-bdap/",
+      "source": "Money Times",
+      "published": "Fri, 30 Oct 2026 17:11:07 +0000"
     },
     {
-      "title": "Com saída de gringos da B3 após eleições, por que o investidor individual comprou?",
-      "link": "https://www.infomoney.com.br/mercados/o-estrangeiro-vendeu-bolsa-apos-eleicoes-e-o-investidor-individual-comprou/",
-      "source": "InfoMoney",
-      "published": "Fri, 30 Oct 2026 13:59:35 +0000"
+      "title": "BTG (BPAC11) sofre corte de recomendação e preço-alvo pelo Itaú BBA, e ação sente",
+      "link": "https://www.moneytimes.com.br/btg-bpac11-sofre-corte-de-recomendacao-e-preco-alvo-pelo-itau-bba-e-acao-sente/",
+      "source": "Money Times",
+      "published": "Fri, 30 Oct 2026 15:31:37 +0000"
+    },
+    {
+      "title": "Fundo imobiliário anuncia mudança de ticker na B3; veja novo código",
+      "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-mudanca-de-ticker-na-b3-veja-novo-codigo-igdl/",
+      "source": "Money Times",
+      "published": "Fri, 30 Oct 2026 15:02:08 +0000"
     },
     {
       "title": "Wall Street abre última sessão da semana em queda em reação aos balanços de tecnologia",
@@ -41,15 +47,16 @@
       "link": "https://www.moneytimes.com.br/usiminas-usim5-acoes-caem-apos-balanco-decepcionar-veja-o-que-preocupa-analistas-para-os-proximos-trimestres-lmrs/",
       "source": "Money Times",
       "published": "Fri, 30 Oct 2026 14:47:31 +0000"
-    },
-    {
-      "title": "Resultado da Amazon (AMZO34): AWS dispara 39% e lucro operacional bate recorde",
-      "link": "https://www.moneytimes.com.br/resultado-da-amazon-amzo34-aws-dispara-39-e-lucro-operacional-bate-recorde-mas-acoes-recuam-mlem/",
-      "source": "Money Times",
-      "published": "Fri, 30 Oct 2026 14:24:45 +0000"
     }
   ],
   "eua": [],
-  "internacional": [],
-  "generated_at": "2026-10-30T14:55:33.946394+00:00"
+  "internacional": [
+    {
+      "title": "Stifel reiterates FedEx Freight stock rating at Hold, $129 target",
+      "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-fedex-freight-stock-rating-at-hold-129-target-93CH-4988448",
+      "source": "Investing.com",
+      "published": "2026-10-30 17:22:48"
+    }
+  ],
+  "generated_at": "2026-10-30T17:49:20.854905+00:00"
 }
