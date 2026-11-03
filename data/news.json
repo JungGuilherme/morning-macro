@@ -1,55 +1,81 @@
 {
   "brasil": [
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e preocupação fiscal; PETR4 recua 4%",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
-      "source": "InfoMoney",
-      "published": "Tue, 03 Nov 2026 15:38:11 +0000"
-    },
-    {
-      "title": "Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-cai-ate-2-fatores-perdas-temor-fiscal-especulacoes-plano-governo-fiscal/",
-      "source": "InfoMoney",
-      "published": "Tue, 03 Nov 2026 15:28:05 +0000"
-    },
-    {
-      "title": "Selic “tabelada” e ajuste fiscal pelos juros: a polêmica proposta de Lara Resende",
-      "link": "https://www.infomoney.com.br/economia/selic-tabelada-e-ajuste-fiscal-pelos-juros-a-polemica-proposta-de-lara-resende/",
-      "source": "InfoMoney",
-      "published": "Tue, 03 Nov 2026 15:08:06 +0000"
-    },
-    {
-      "title": "Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações",
-      "link": "https://www.infomoney.com.br/mercados/embraer-embj3-avanca-5-nesta-terca-dolar-e-acordo-com-grecia-impulsionam-acoes/",
-      "source": "InfoMoney",
-      "published": "Tue, 03 Nov 2026 14:59:09 +0000"
-    },
-    {
-      "title": "Durigan: ideia de Lara Resende tem ‘deficiências’ e ‘não é uma proposta a ser avaliada ainda’",
-      "link": "https://www.moneytimes.com.br/durigan-ideia-de-lara-resende-tem-deficiencias-e-nao-e-uma-proposta-a-ser-avaliada-ainda/",
+      "title": "Ouro cai com temores de juros mais altos",
+      "link": "https://www.moneytimes.com.br/ouro-3-11-26-lils/",
       "source": "Money Times",
-      "published": "Tue, 03 Nov 2026 15:24:53 +0000"
+      "published": "Tue, 03 Nov 2026 19:13:00 +0000"
     },
     {
-      "title": "Ações da CSN (CSNA3) sobem 4% com venda da divisão de cimentos e redução da dívida no radar",
-      "link": "https://www.moneytimes.com.br/acoes-da-csn-csna3-sobem-4-com-venda-da-divisao-de-cimentos-e-reducao-da-divida-no-radar-lmrs/",
+      "title": "Estrangeiros foram compradores líquidos de ações brasileiras em outubro, apesar de vendas pós-eleição, diz IIF",
+      "link": "https://www.moneytimes.com.br/estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-em-outubro-apesar-de-vendas-pos-eleicao-diz-iif-jcav/",
       "source": "Money Times",
-      "published": "Tue, 03 Nov 2026 14:45:06 +0000"
+      "published": "Tue, 03 Nov 2026 19:03:35 +0000"
     },
     {
-      "title": "Wall Street tem sessão mista com eleições de meio de mandato em foco",
-      "link": "https://www.moneytimes.com.br/wall-street-abertura-3-11-26-lils/",
+      "title": "Minerva (BEEF3): XP vê potencial de alta de 195%, mas mantém cautela com geração de caixa; veja prévia",
+      "link": "https://www.moneytimes.com.br/minerva-beef3-xp-ve-potencial-de-alta-de-195-mas-mantem-cautela-com-geracao-de-caixa-veja-previa-pads/",
       "source": "Money Times",
-      "published": "Tue, 03 Nov 2026 14:39:10 +0000"
+      "published": "Tue, 03 Nov 2026 18:56:02 +0000"
     },
     {
-      "title": "XP pisa no freio com a Bolsa brasileira, mas vê oportunidades em 10 ações",
-      "link": "https://www.moneytimes.com.br/xp-pisa-no-freio-com-a-bolsa-brasileira-mas-ve-oportunidades-em-10-acoes-lils/",
+      "title": "Itaú BBA aposta em ‘fábrica de bilionários’ para lucrar após eleição de Lula",
+      "link": "https://www.moneytimes.com.br/itau-bba-aposta-em-fabrica-de-bilionarios-para-lucrar-apos-eleicao-de-lula/",
       "source": "Money Times",
-      "published": "Tue, 03 Nov 2026 14:30:51 +0000"
+      "published": "Tue, 03 Nov 2026 18:32:17 +0000"
+    },
+    {
+      "title": "Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI",
+      "link": "https://www.moneytimes.com.br/tres-gatilhos-que-podem-destravar-uma-recuperacao-do-ibovespa-segundo-analista-da-eqi/",
+      "source": "Money Times",
+      "published": "Tue, 03 Nov 2026 18:25:47 +0000"
+    },
+    {
+      "title": "Fundo imobiliário anuncia dividendo recorde e vai à Justiça para revisar aluguéis da Caixa",
+      "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-dividendo-recorde-e-vai-a-justica-para-revisar-alugueis-da-caixa-igdl/",
+      "source": "Money Times",
+      "published": "Tue, 03 Nov 2026 17:57:02 +0000"
+    },
+    {
+      "title": "Bolsas da Europa fecham em queda com volta dos temores sobre IA",
+      "link": "https://www.moneytimes.com.br/bolsas-europa-fechamento-03112026-davs/",
+      "source": "Money Times",
+      "published": "Tue, 03 Nov 2026 17:37:43 +0000"
+    },
+    {
+      "title": "Análise: o que o ‘acusador’ André Lara Resende colocou em debate e vale mais do que a proposta em si",
+      "link": "https://www.moneytimes.com.br/analise-o-que-o-acusador-andre-lara-resende-colocou-em-debate-e-vale-mais-do-que-a-proposta-em-si-rens/",
+      "source": "Money Times",
+      "published": "Tue, 03 Nov 2026 17:24:50 +0000"
     }
   ],
-  "eua": [],
-  "internacional": [],
-  "generated_at": "2026-11-03T15:59:08.457761+00:00"
+  "eua": [
+    {
+      "title": "SK Hynix’s US expansion plans hit snag over China license delays - report",
+      "link": "https://www.investing.com/news/stock-market-news/sk-hynixs-us-expansion-plans-hit-snag-over-china-license-delays--report-4996232",
+      "source": "Investing.com",
+      "published": "2026-11-03 18:55:20"
+    },
+    {
+      "title": "Apple releases new iOS beta with AI audio tools and China features",
+      "link": "https://www.investing.com/news/stock-market-news/apple-releases-new-ios-beta-with-ai-audio-tools-and-china-features-4996211",
+      "source": "Investing.com",
+      "published": "2026-11-03 18:34:50"
+    }
+  ],
+  "internacional": [
+    {
+      "title": "SK Hynix’s US expansion plans hit snag over China license delays - report",
+      "link": "https://www.investing.com/news/stock-market-news/sk-hynixs-us-expansion-plans-hit-snag-over-china-license-delays--report-4996232",
+      "source": "Investing.com",
+      "published": "2026-11-03 18:55:20"
+    },
+    {
+      "title": "SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say",
+      "link": "https://www.investing.com/news/economy-news/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say-4996231",
+      "source": "Investing.com",
+      "published": "2026-11-03 18:54:59"
+    }
+  ],
+  "generated_at": "2026-11-03T19:14:23.776691+00:00"
 }
