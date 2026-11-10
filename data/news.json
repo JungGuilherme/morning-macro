@@ -1,55 +1,63 @@
 {
   "brasil": [
     {
-      "title": "Bolsas de NY fecham em forte alta com recuperação de tecnologia; Nasdaq avança 2,7%",
-      "link": "https://www.infomoney.com.br/mercados/wall-street-abre-em-alta-apos-perdas-do-setor-de-ia-na-semana-passada/",
+      "title": "Dólar salta quase 2% e atinge R$ 5,60 após inflação nos EUA superar expectativas",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-10112026/",
       "source": "InfoMoney",
-      "published": "Mon, 09 Nov 2026 21:53:53 +0000"
+      "published": "Tue, 10 Nov 2026 16:01:56 +0000"
     },
     {
-      "title": "Por que Ibovespa subiu 2,22% nesta 2ª mesmo com queda de commodities e cautela fiscal",
-      "link": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda e dólar dispara 1%",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/",
       "source": "InfoMoney",
-      "published": "Mon, 09 Nov 2026 21:47:27 +0000"
+      "published": "Tue, 10 Nov 2026 15:43:06 +0000"
     },
     {
-      "title": "Ações de petroleiras como Petrobras e PRIO caem acompanhando petróleo nesta 2ª",
-      "link": "https://www.infomoney.com.br/mercados/petroleiras-sao-maiores-quedas-do-ibov-nesta-2o-acompanhando-movimento-do-petroleo/",
+      "title": "Ibovespa reduz fôlego com inflação dos EUA e cai após superar 173 mil pontos",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-reduz-folego-com-inflacao-dos-eua-e-cai-apos-superar-173-mil-pontos/",
       "source": "InfoMoney",
-      "published": "Mon, 09 Nov 2026 21:43:07 +0000"
+      "published": "Tue, 10 Nov 2026 15:20:31 +0000"
     },
     {
-      "title": "Gás do Povo: governo federal prorroga vigência do auxílio até 2031",
-      "link": "https://www.infomoney.com.br/politica/gas-do-povo-governo-federal-prorroga-vigencia-do-auxilio-ate-2031/",
-      "source": "InfoMoney",
-      "published": "Mon, 09 Nov 2026 21:41:34 +0000"
-    },
-    {
-      "title": "JBS tem lucro 72% menor no 3T, a US$ 164 mi, mas vê melhora em carne bovina nos EUA",
-      "link": "https://www.infomoney.com.br/mercados/jbs-jbss32-resultados-terceiro-trimestre-2026/",
-      "source": "InfoMoney",
-      "published": "Mon, 09 Nov 2026 21:38:24 +0000"
-    },
-    {
-      "title": "Ibovespa fecha em alta, com exterior e Vale; dólar tem leve queda a R$ 5,50",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/",
-      "source": "InfoMoney",
-      "published": "Mon, 09 Nov 2026 21:27:50 +0000"
-    },
-    {
-      "title": "Magazine Luiza (MGLU3) reverte lucro e registra prejuízo de R$ 10,7 milhões no 3T26, com e-commerce ainda sob pressão",
-      "link": "https://www.moneytimes.com.br/magazine-luiza-mglu3-reverte-lucro-e-registra-prejuizo-de-r-107-milhoes-no-3t26-com-e-commerce-ainda-sob-pressao-bdap/",
+      "title": "Wall Street recua após inflação dos EUA vir acima do esperado",
+      "link": "https://www.moneytimes.com.br/wall-street-recua-apos-inflacao-dos-eua-vir-acima-do-esperado-davs/",
       "source": "Money Times",
-      "published": "Mon, 09 Nov 2026 21:56:44 +0000"
+      "published": "Tue, 10 Nov 2026 14:56:11 +0000"
     },
     {
-      "title": "Ibovespa sobe forte com impulso de Wall Street e alcança os 172 mil pontos",
-      "link": "https://www.moneytimes.com.br/ibovespa-sobe-forte-com-impulso-de-wall-street-e-alcanca-os-172-mil-pontos-davs/",
+      "title": "Mesmo com Selic elevada, Petrobras (PETR4) deve entregar mais um trimestre sólido",
+      "link": "https://www.moneytimes.com.br/mesmo-com-selic-elevada-petrobras-petr4-deve-entregar-mais-um-trimestre-solido-mlem/",
       "source": "Money Times",
-      "published": "Mon, 09 Nov 2026 21:55:48 +0000"
+      "published": "Tue, 10 Nov 2026 14:09:08 +0000"
+    },
+    {
+      "title": "CPI: Inflação dos EUA sobe mais que o esperado em outubro",
+      "link": "https://www.moneytimes.com.br/cpi-inflacao-eua-sobe-mais-que-esperado-outubro-jcav/",
+      "source": "Money Times",
+      "published": "Tue, 10 Nov 2026 13:48:02 +0000"
+    },
+    {
+      "title": "Ibovespa sustenta alta após ata do Copom; 5 coisas para saber antes de investir hoje (9)",
+      "link": "https://www.moneytimes.com.br/ibovespa-acompanha-wall-street-e-sustenta-alta-5-coisas-para-saber-antes-de-investir-hoje-9/",
+      "source": "Money Times",
+      "published": "Tue, 10 Nov 2026 13:26:18 +0000"
     }
   ],
-  "eua": [],
-  "internacional": [],
-  "generated_at": "2026-11-09T22:02:21.233910+00:00"
+  "eua": [
+    {
+      "title": "NY Fed finds troubled debt levels ticked up in third quarter",
+      "link": "https://www.investing.com/news/stock-market-news/ny-fed-finds-troubled-debt-levels-ticked-up-in-third-quarter-5016249",
+      "source": "Investing.com",
+      "published": "2026-11-10 16:06:39"
+    }
+  ],
+  "internacional": [
+    {
+      "title": "Fed’s Logan calls for two more rate hikes, possibly rapidly",
+      "link": "https://www.investing.com/news/economy-news/feds-logan-calls-for-two-more-rate-hikes-possibly-rapidly-5016235",
+      "source": "Investing.com",
+      "published": "2026-11-10 16:00:23"
+    }
+  ],
+  "generated_at": "2026-11-10T16:15:18.047621+00:00"
 }
