@@ -1,49 +1,57 @@
 {
   "brasil": [
     {
-      "title": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos",
-      "link": "https://www.infomoney.com.br/mercados/alem-da-bolsa-como-dolar-juros-altos-podem-ameacar-investimentos-empregos/",
+      "title": "Operação mira fraudes em concurso da PF, impede posse de escrivão e confisca bens",
+      "link": "https://www.infomoney.com.br/brasil/operacao-mira-fraudes-em-concurso-da-pf-impede-posse-de-escrivao-e-confisca-bens/",
       "source": "InfoMoney",
-      "published": "Thu, 12 Nov 2026 16:36:52 +0000"
+      "published": "Thu, 12 Nov 2026 18:36:00 +0000"
     },
     {
-      "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3 e IPCA; fiscal segue no radar",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12112026/",
-      "source": "InfoMoney",
-      "published": "Thu, 12 Nov 2026 16:09:47 +0000"
-    },
-    {
-      "title": "Congresso aprova crédito suplementar de R$ 149 bi para Bolsa Família, BPC e Previdência",
-      "link": "https://www.moneytimes.com.br/congresso-aprova-credito-suplementar-de-r-149-bi-para-bolsa-familia-bpc-e-previdencia-jcsv/",
+      "title": "Fim da escala 6×1: Flávio Dino mantém prazo inicial da 5×2, mas flexibiliza regra de transição",
+      "link": "https://www.moneytimes.com.br/fim-da-escala-6x1-flavio-dino-mantem-prazo-inicial-da-5x2-mas-flexibiliza-regra-de-transicao-mlem/",
       "source": "Money Times",
-      "published": "Thu, 12 Nov 2026 16:36:33 +0000"
+      "published": "Thu, 12 Nov 2026 19:32:21 +0000"
     },
     {
-      "title": "EUA devem se preparar para “grave” perturbação no mercado de trabalho causada pela IA, diz diretor do Fed",
-      "link": "https://www.moneytimes.com.br/eua-devem-se-preparar-para-grave-perturbacao-no-mercado-de-trabalho-causada-pela-ia-diz-diretor-do-fed-jcav/",
+      "title": "Associação de empresas de capital aberto diz que pacote de ajuste fiscal do governo traz riscos às companhias; entenda",
+      "link": "https://www.moneytimes.com.br/abrasca-alerta-para-impactos-sobre-investimentos-em-plp-do-ajuste-e-sugere-arquivamento/",
       "source": "Money Times",
-      "published": "Thu, 12 Nov 2026 16:33:05 +0000"
+      "published": "Thu, 12 Nov 2026 19:30:06 +0000"
     },
     {
-      "title": "O que explica a disparada de Azzas 2154 (AZZA3) após o balanço do 3T26? Citi e BTG respondem",
-      "link": "https://www.moneytimes.com.br/o-que-explica-a-disparada-de-azzas-2154-azza3-apos-o-balanco-do-3t25-citi-e-btg-respondem-bdap/",
+      "title": "Ouro fecha abaixo dos US$ 4 mil com alta do dólar e tensões entre EUA e Irã",
+      "link": "https://www.moneytimes.com.br/ouro-fecha-abaixo-dos-us-4-mil-com-alta-do-dolar-e-tensoes-entre-eua-e-ira-davs/",
       "source": "Money Times",
-      "published": "Thu, 12 Nov 2026 15:24:30 +0000"
+      "published": "Thu, 12 Nov 2026 19:15:56 +0000"
     },
     {
-      "title": "Hapvida (HAPV3): ações disparam 15% mesmo com queda de 68% no lucro do 3º trimestre; o que dizem analistas?",
-      "link": "https://www.moneytimes.com.br/hapvida-hapv3-acoes-disparam-15-mesmo-com-queda-de-68-no-lucro-do-3o-trimestre-o-que-dizem-analistas-lmrs/",
+      "title": "Governo inclui Ministério do Meio Ambiente no comitê executivo do Conselho de Minerais Críticos",
+      "link": "https://www.moneytimes.com.br/governo-inclui-ministerio-do-meio-ambiente-no-comite-executivo-do-conselho-de-minerais-criticos/",
       "source": "Money Times",
-      "published": "Thu, 12 Nov 2026 15:15:55 +0000"
+      "published": "Thu, 12 Nov 2026 19:08:11 +0000"
     },
     {
-      "title": "Wall Street opera sem direção única após renúncia do CEO da Nvidia e tensões entre EUA e Irã",
-      "link": "https://www.moneytimes.com.br/wall-street-opera-davs/",
+      "title": "Selic sem novas altas e PIB estagnado: o que o UBS BB espera para 2027",
+      "link": "https://www.moneytimes.com.br/selic-sem-novas-altas-e-pib-estagnado-o-que-o-ubs-bb-espera-para-2027-igdl/",
       "source": "Money Times",
-      "published": "Thu, 12 Nov 2026 15:12:21 +0000"
+      "published": "Thu, 12 Nov 2026 17:47:21 +0000"
     }
   ],
-  "eua": [],
-  "internacional": [],
-  "generated_at": "2026-11-12T16:40:45.967680+00:00"
+  "eua": [
+    {
+      "title": "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns",
+      "link": "https://www.investing.com/news/stock-market-news/explainertougher-curbs-on-ai-chip-sales-to-china-likely-after-nvidia-ceo-resigns-5022981",
+      "source": "Investing.com",
+      "published": "2026-11-12 19:12:27"
+    }
+  ],
+  "internacional": [
+    {
+      "title": "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+      "link": "https://www.investing.com/news/economy-news/fed-sets-new-meeting-schedule-for-2027-as-foretold-by-warsh-5023024",
+      "source": "Investing.com",
+      "published": "2026-11-12 19:24:22"
+    }
+  ],
+  "generated_at": "2026-11-12T19:40:13.684710+00:00"
 }
