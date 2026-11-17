@@ -1,62 +1,44 @@
 {
   "brasil": [
     {
-      "title": "Ibovespa cai cerca de 2% e fica abaixo dos 170 mil pontos: o que explica forte queda?",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-fica-abaixo-dos-170-mil-pontos-o-que-explica-queda-nesta-2a/",
+      "title": "Corinthians entra com pedido de tutela cautelar e caminha para Recuperação Judicial",
+      "link": "https://www.infomoney.com.br/esportes/corinthians-entra-com-pedido-de-tutela-cautelar-e-caminha-para-recuperacao-judicial/",
       "source": "InfoMoney",
-      "published": "Mon, 16 Nov 2026 21:38:54 +0000"
+      "published": "Tue, 17 Nov 2026 16:49:04 +0000"
     },
     {
-      "title": "Moedas Globais: força do dólar segue e DXY sobe a maior nível desde Dia da Libertação",
-      "link": "https://www.infomoney.com.br/mercados/moedas-globais-forca-do-dolar-segue-e-dxy-sobe-a-maior-nivel-desde-dia-da-libertacao/",
+      "title": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
+      "link": "https://www.infomoney.com.br/mercados/b3-lancara-bdr-da-anthropic-simultaneamente-ao-ipo-da-empresa-na-nasdaq/",
       "source": "InfoMoney",
-      "published": "Mon, 16 Nov 2026 21:30:21 +0000"
+      "published": "Tue, 17 Nov 2026 16:37:20 +0000"
     },
     {
-      "title": "Vale (VALE3): ações caem 4% com minério na mínima em 16 meses",
-      "link": "https://www.infomoney.com.br/mercados/vale-vale3-acoes-caem-mais-de-3-com-minerio-na-minima-em-16-meses/",
-      "source": "InfoMoney",
-      "published": "Mon, 16 Nov 2026 21:26:12 +0000"
-    },
-    {
-      "title": "Ibovespa desaba quase 2% e dólar sobe 2,15%, com preocupações fiscais",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16112026/",
-      "source": "InfoMoney",
-      "published": "Mon, 16 Nov 2026 21:25:34 +0000"
-    },
-    {
-      "title": "Petróleo fecha em queda de 3% com aumento da oferta no Oriente Médio",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-de-3-com-aumento-da-oferta-no-oriente-medio/",
-      "source": "InfoMoney",
-      "published": "Mon, 16 Nov 2026 21:17:22 +0000"
-    },
-    {
-      "title": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-      "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
+      "title": "Congresso dos EUA convoca Jensen Huang para depor sobre chips de IA e China",
+      "link": "https://www.moneytimes.com.br/ex-ceo-da-nvidia-ira-ao-congresso-dos-eua-em-dezembro/",
       "source": "Money Times",
-      "published": "Mon, 16 Nov 2026 21:29:26 +0000"
+      "published": "Tue, 17 Nov 2026 17:26:31 +0000"
     },
     {
-      "title": "Se governo fizer série de pequenas medidas, juros caem amanhã, diz Mansueto Almeida",
-      "link": "https://www.moneytimes.com.br/se-governo-fizer-serie-de-pequenas-medidas-juros-caem-amanha-diz-mansueto-almeida/",
+      "title": "Bolsas da Europa fecham em queda com novas restrições dos EUA a chips",
+      "link": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-com-novas-restricoes-dos-eua-a-chips-davs/",
       "source": "Money Times",
-      "published": "Mon, 16 Nov 2026 21:16:53 +0000"
+      "published": "Tue, 17 Nov 2026 17:19:27 +0000"
     },
     {
-      "title": "COP31: os mapas do caminho do Brasil trazem novidades ou repetem compromissos climáticos?",
-      "link": "https://www.moneytimes.com.br/cop-31-os-mapas-do-caminho-do-brasil-trazem-novidades-ou-repetem-compromissos-climaticos-pads/",
+      "title": "Menos de R$ 100: B3 terá BDR da Anthropic (ANTH34) já nesta semana; veja como comprar",
+      "link": "https://www.moneytimes.com.br/menos-de-r-100-b3-vai-lancar-bdr-da-anthropic-anth34-na-estreia-da-companhia-na-nasdaq-veja-como-comprar-mlem/",
       "source": "Money Times",
-      "published": "Mon, 16 Nov 2026 21:12:00 +0000"
+      "published": "Tue, 17 Nov 2026 15:41:41 +0000"
     }
   ],
-  "eua": [
+  "eua": [],
+  "internacional": [
     {
-      "title": "Wall Street kicks off week lower amid Nvidia turmoil and Fed rate concerns",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changed-as-investors-await-nvidia-earnings-5028292",
+      "title": "Trump meets key US regional allies in Manila ahead of China visit",
+      "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
       "source": "Investing.com",
-      "published": "2026-11-16 21:16:02"
+      "published": "2026-11-17 17:12:43"
     }
   ],
-  "internacional": [],
-  "generated_at": "2026-11-16T21:45:09.870620+00:00"
+  "generated_at": "2026-11-17T17:28:51.598946+00:00"
 }
