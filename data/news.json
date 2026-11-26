@@ -1,62 +1,49 @@
 {
   "brasil": [
     {
-      "title": "Petróleo fecha em alta com tensão entre Houthis e Arábia Saudita e ataques da Ucrânia",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-25112026/",
+      "title": "Lula recebe Cleitinho para discutir renegociação da dívida de MG com a União",
+      "link": "https://www.infomoney.com.br/politica/lula-recebe-cleitinho-para-discutir-renegociacao-da-divida-de-mg-com-a-uniao/",
       "source": "InfoMoney",
-      "published": "Wed, 25 Nov 2026 21:12:01 +0000"
+      "published": "Thu, 26 Nov 2026 17:13:00 +0000"
     },
     {
-      "title": "Bitcoin oscila perto da estabilidade com apostas em juros em alta e fuga de risco",
-      "link": "https://www.infomoney.com.br/mercados/bitcoin-oscila-perto-da-estabilidade-com-apostas-em-juros-em-alta-e-fuga-de-risco/",
-      "source": "InfoMoney",
-      "published": "Wed, 25 Nov 2026 21:09:13 +0000"
-    },
-    {
-      "title": "Dólar fecha com queda de 1,5%, a R$ 5,82, com especulações sobre ministro da Fazenda",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25112026/",
-      "source": "InfoMoney",
-      "published": "Wed, 25 Nov 2026 20:25:28 +0000"
-    },
-    {
-      "title": "Embraer: ação ameniza queda após cair 9% com possível tarifa: mercado exagerou?",
-      "link": "https://www.infomoney.com.br/mercados/embraer-embj3-acao-cai-forte-com-proposta-dos-eua-para-taxar-aeronaves-brasileiras/",
-      "source": "InfoMoney",
-      "published": "Wed, 25 Nov 2026 20:21:59 +0000"
-    },
-    {
-      "title": "Caixa avalia compra do BRB em meio à crise ligada ao Banco Master",
-      "link": "https://www.infomoney.com.br/politica/caixa-avalia-possivel-aquisicao-do-brb-em-crise-financeira-provocada-por-caso-master/",
-      "source": "InfoMoney",
-      "published": "Wed, 25 Nov 2026 20:07:37 +0000"
-    },
-    {
-      "title": "Ouro fecha em queda com perspectiva de alta nos juros do Fed com inflação persistente",
-      "link": "https://www.infomoney.com.br/mercados/ouro-fecha-em-queda-com-perspectiva-de-alta-nos-juros-do-fed-com-inflacao-persistente/",
-      "source": "InfoMoney",
-      "published": "Wed, 25 Nov 2026 20:00:46 +0000"
-    },
-    {
-      "title": "Dólar a R$ 6 e juros futuros em 15%: o que Lula precisa fazer para acalmar o mercado",
-      "link": "https://www.moneytimes.com.br/dolar-a-r-6-e-juros-futuros-em-15-o-que-lula-precisa-fazer-para-acalmar-o-mercado/",
+      "title": "Brasil pode entrar em recessão em 2027, e nem isso garante cortes expressivos na Selic, alerta UBS",
+      "link": "https://www.moneytimes.com.br/brasil-pode-entrar-em-recessao-em-2027-e-nem-isso-garante-cortes-expressivos-na-selic-alerta-ubs/",
       "source": "Money Times",
-      "published": "Wed, 25 Nov 2026 21:05:32 +0000"
+      "published": "Thu, 26 Nov 2026 17:58:49 +0000"
     },
     {
-      "title": "Dólar recua para os R$ 5,80 com expectativas sobre equipe econômica de Lula",
-      "link": "https://www.moneytimes.com.br/dolar-recua-para-os-r-580-com-expectativas-sobre-equipe-economica-de-lula-davs/",
+      "title": "Nenhuma ação em queda no Ibovespa: os dois motivos por trás da festa de hoje",
+      "link": "https://www.moneytimes.com.br/nenhuma-acao-em-queda-no-ibovespa-os-dois-motivos-por-tras-da-festa-de-hoje-bdap/",
       "source": "Money Times",
-      "published": "Wed, 25 Nov 2026 20:15:58 +0000"
+      "published": "Thu, 26 Nov 2026 17:48:55 +0000"
+    },
+    {
+      "title": "Dos EUA, Flávio Bolsonaro lista R$ 79,3 milhões em emendas para o Orçamento de 2027",
+      "link": "https://www.moneytimes.com.br/dos-eua-flavio-bolsonaro-lista-r-793-milhoes-em-emendas-para-o-orcamento-de-2027-mlem/",
+      "source": "Money Times",
+      "published": "Thu, 26 Nov 2026 17:33:04 +0000"
+    },
+    {
+      "title": "BC freia teto da dívida familiar e diz que falta medir melhor o endividamento",
+      "link": "https://www.moneytimes.com.br/brasil-ainda-nao-esta-preparado-para-limitar-comprometimento-da-renda-com-divida-diz-diretor-do-bc-jcav/",
+      "source": "Money Times",
+      "published": "Thu, 26 Nov 2026 17:13:41 +0000"
+    },
+    {
+      "title": "Durigan quer BC e pacote fiscal na rua em 2026 para destravar 2027",
+      "link": "https://www.moneytimes.com.br/durigan-defende-indicacoes-de-nomes-especialmente-para-bc-ainda-em-2026-jcav/",
+      "source": "Money Times",
+      "published": "Thu, 26 Nov 2026 17:05:31 +0000"
+    },
+    {
+      "title": "Bolsas da Europa fecham em alta com ponderações sobre tarifas e expectativas de juros do BCE",
+      "link": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-alta-com-ponderacoes-sobre-tarifas-e-expectativas-de-juros-do-bce-lmrs/",
+      "source": "Money Times",
+      "published": "Thu, 26 Nov 2026 17:01:50 +0000"
     }
   ],
   "eua": [],
-  "internacional": [
-    {
-      "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks",
-      "link": "https://www.investing.com/news/economy-news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks-5051371",
-      "source": "Investing.com",
-      "published": "2026-11-25 20:49:00"
-    }
-  ],
-  "generated_at": "2026-11-25T21:17:53.976658+00:00"
+  "internacional": [],
+  "generated_at": "2026-11-26T18:14:25.546013+00:00"
 }
