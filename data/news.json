@@ -1,55 +1,49 @@
 {
   "brasil": [
     {
-      "title": "Ibovespa salta 6% com notícia de ida de Trabuco a Brasília para encontrar Lula",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-salta-3-e-supera-os-172-mil-pontos-com-possibilidade-de-trabuco-na-fazenda/",
+      "title": "Tesouro IPCA+ rende mais de 9% em menos de uma semana com “efeito Trabuco”",
+      "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-quanto-rende-efeito-trabuco/",
       "source": "InfoMoney",
-      "published": "Thu, 26 Nov 2026 20:56:42 +0000"
+      "published": "Fri, 27 Nov 2026 17:30:10 +0000"
     },
     {
-      "title": "Dólar futuro cai mais de 3% após notícia de encontro entre Trabuco e Lula em Brasília",
-      "link": "https://www.infomoney.com.br/mercados/dolar-futuro-cai-mais-de-2-apos-noticia-encontro-entre-trabuco-e-lula-em-brasilia/",
+      "title": "“Efeito Trabuco” na Fazenda: quais ações podem ganhar e quais podem perder na Bolsa?",
+      "link": "https://www.infomoney.com.br/mercados/efeito-trabuco-na-fazenda-quais-acoes-podem-ganhar-e-quais-podem-perder-na-bolsa/",
       "source": "InfoMoney",
-      "published": "Thu, 26 Nov 2026 20:52:24 +0000"
+      "published": "Fri, 27 Nov 2026 17:00:00 +0000"
     },
     {
-      "title": "Taxas caem com expectativa de Trabuco na Fazenda e IPCA-15 abaixo do esperado",
-      "link": "https://www.infomoney.com.br/mercados/taxas-caem-com-expectativa-de-trabuco-na-fazenda-e-ipca-15-abaixo-do-esperado/",
-      "source": "InfoMoney",
-      "published": "Thu, 26 Nov 2026 20:25:47 +0000"
-    },
-    {
-      "title": "Usiminas (USIM5) espera resultado menor no 4º trimestre com pressão do câmbio",
-      "link": "https://www.infomoney.com.br/mercados/usiminas-usim5-espera-resultado-menor-no-4o-trimestre-com-pressao-do-cambio/",
-      "source": "InfoMoney",
-      "published": "Thu, 26 Nov 2026 20:25:46 +0000"
-    },
-    {
-      "title": "Lagarde abre caminho para o sucessor: Conselho da UE apoia Pablo Hernández de Cos para a presidência do BCE",
-      "link": "https://www.moneytimes.com.br/lagarde-abre-caminho-para-o-sucessor-conselho-da-ue-apoia-pablo-hernandez-de-cos-para-a-presidencia-do-bce-miql/",
+      "title": "Bolsas da Europa fecham em alta com setor tech e expectativas sobre futuro do BCE",
+      "link": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-alta-com-setor-tech-e-expectativas-sobre-futuro-do-bce-davs/",
       "source": "Money Times",
-      "published": "Thu, 26 Nov 2026 20:41:11 +0000"
+      "published": "Fri, 27 Nov 2026 17:30:54 +0000"
     },
     {
-      "title": "Petróleo fecha em alta em meio a escalada das tensões no Oriente Médio",
-      "link": "https://www.moneytimes.com.br/petroleo-fecha-em-alta-em-meio-a-temor-com-oferta-diante-de-escalada-de-tensao-no-oriente-medio-davs/",
+      "title": "BC: inadimplência de produtores no crédito rural sobe para 9,6% em outubro",
+      "link": "https://www.moneytimes.com.br/bc-inadimplencia-de-produtores-no-credito-rural-sobe-para-96-em-outubro-pads/",
       "source": "Money Times",
-      "published": "Thu, 26 Nov 2026 20:33:25 +0000"
+      "published": "Fri, 27 Nov 2026 16:58:16 +0000"
     },
     {
-      "title": "Dólar recua para os R$ 5,7435 com IPCA-15 e expectativas sobre equipe econômica de Lula",
-      "link": "https://www.moneytimes.com.br/dolar-recua-para-os-r-57435-com-ipca-15-e-expectativas-sobre-equipe-economica-de-lula-davs/",
+      "title": "Trabuco na Fazenda pode blindar Banco Central; veja os 3 pontos que o mercado vai monitorar, segundo UBS GWM",
+      "link": "https://www.moneytimes.com.br/trabuco-na-fazenda-pode-blindar-banco-central-veja-os-3-pontos-que-o-mercado-vai-monitorar-segundo-ubs-gwm/",
       "source": "Money Times",
-      "published": "Thu, 26 Nov 2026 20:07:45 +0000"
+      "published": "Fri, 27 Nov 2026 16:20:14 +0000"
     },
     {
-      "title": "Liquidante do Master diz ao STF não se opor a liberar R$ 316 milhões ao BRB",
-      "link": "https://www.moneytimes.com.br/liquidante-do-master-diz-ao-stf-nao-se-opor-a-liberar-r-316-milhoes-ao-brb-pads/",
+      "title": "Ibovespa reduz fôlego após euforia com Trabuco no comando da Fazenda; entenda",
+      "link": "https://www.moneytimes.com.br/ibovespa-reduz-folego-apos-euforia-com-trabuco-no-comando-da-fazenda-davs/",
       "source": "Money Times",
-      "published": "Thu, 26 Nov 2026 19:58:29 +0000"
+      "published": "Fri, 27 Nov 2026 16:10:21 +0000"
+    },
+    {
+      "title": "Wall Street abre em alta em sessão mais curta, impulsionada pelo setor de tecnologia",
+      "link": "https://www.moneytimes.com.br/wall-street-abre-sessao-mais-curta-em-alta-com-apoio-do-setor-de-tecnologia-davs/",
+      "source": "Money Times",
+      "published": "Fri, 27 Nov 2026 15:07:28 +0000"
     }
   ],
   "eua": [],
   "internacional": [],
-  "generated_at": "2026-11-26T21:05:25.814348+00:00"
+  "generated_at": "2026-11-27T17:56:59.834561+00:00"
 }
